@@ -1,0 +1,1698 @@
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 21
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[17-Oct-2024 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[17-Oct-2024 13:46:08 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[17-Oct-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[17-Oct-2024 13:46:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[17-Oct-2024 13:46:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Oct-2024 19:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[21-Oct-2024 19:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[21-Oct-2024 19:03:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[21-Oct-2024 19:03:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 21
+[21-Oct-2024 19:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[21-Oct-2024 19:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[21-Oct-2024 19:03:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[21-Oct-2024 19:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[21-Oct-2024 19:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[21-Oct-2024 19:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[21-Oct-2024 19:03:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[21-Oct-2024 19:03:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[21-Oct-2024 19:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[21-Oct-2024 19:03:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[21-Oct-2024 19:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[21-Oct-2024 19:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[21-Oct-2024 19:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[21-Oct-2024 19:04:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[21-Oct-2024 19:04:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[21-Oct-2024 19:04:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[21-Oct-2024 19:04:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[21-Oct-2024 19:04:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[21-Oct-2024 19:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[21-Oct-2024 19:04:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[21-Oct-2024 19:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[21-Oct-2024 19:04:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[21-Oct-2024 19:04:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[21-Oct-2024 19:04:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[21-Oct-2024 19:04:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[21-Oct-2024 19:04:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[21-Oct-2024 19:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[21-Oct-2024 19:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[21-Oct-2024 19:04:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[21-Oct-2024 19:04:18 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[21-Oct-2024 19:04:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[21-Oct-2024 19:04:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[21-Oct-2024 19:04:19 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[21-Oct-2024 19:04:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[21-Oct-2024 19:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[21-Oct-2024 19:04:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[21-Oct-2024 19:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[21-Oct-2024 19:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[21-Oct-2024 19:04:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[21-Oct-2024 19:04:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[21-Oct-2024 19:04:25 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[21-Oct-2024 19:04:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[21-Oct-2024 19:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[21-Oct-2024 19:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[21-Oct-2024 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[21-Oct-2024 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[21-Oct-2024 19:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[21-Oct-2024 19:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[21-Oct-2024 19:04:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[21-Oct-2024 19:04:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[21-Oct-2024 19:04:45 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[21-Oct-2024 19:04:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[21-Oct-2024 19:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[21-Oct-2024 19:04:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[21-Oct-2024 19:04:53 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[21-Oct-2024 19:04:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[21-Oct-2024 19:04:56 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[21-Oct-2024 19:04:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Oct-2024 19:04:56 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Oct-2024 19:04:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[13-Dec-2024 05:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[13-Dec-2024 05:07:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[16-Dec-2024 03:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[16-Dec-2024 03:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[16-Dec-2024 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[16-Dec-2024 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 25
+[16-Dec-2024 03:25:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[16-Dec-2024 03:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[16-Dec-2024 03:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[16-Dec-2024 03:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[16-Dec-2024 03:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[16-Dec-2024 03:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[16-Dec-2024 03:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[16-Dec-2024 03:25:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[16-Dec-2024 03:25:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[16-Dec-2024 03:25:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[16-Dec-2024 03:25:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[16-Dec-2024 03:25:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[16-Dec-2024 03:25:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[16-Dec-2024 03:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[16-Dec-2024 03:25:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[16-Dec-2024 03:25:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[16-Dec-2024 03:25:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[16-Dec-2024 03:25:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[16-Dec-2024 03:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[16-Dec-2024 03:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[16-Dec-2024 03:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[16-Dec-2024 03:25:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[16-Dec-2024 03:25:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[16-Dec-2024 03:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[16-Dec-2024 03:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[16-Dec-2024 03:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[16-Dec-2024 03:25:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[16-Dec-2024 03:25:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[16-Dec-2024 03:25:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[16-Dec-2024 03:25:50 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[16-Dec-2024 03:25:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[16-Dec-2024 03:25:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[16-Dec-2024 03:25:51 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[16-Dec-2024 03:25:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[16-Dec-2024 03:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[16-Dec-2024 03:25:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[16-Dec-2024 03:25:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[16-Dec-2024 03:25:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[16-Dec-2024 03:25:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[16-Dec-2024 03:25:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[16-Dec-2024 03:25:54 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[16-Dec-2024 03:25:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[16-Dec-2024 03:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[16-Dec-2024 03:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[16-Dec-2024 03:25:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[16-Dec-2024 03:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[16-Dec-2024 03:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[16-Dec-2024 03:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[16-Dec-2024 03:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[16-Dec-2024 03:25:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[16-Dec-2024 03:25:59 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[16-Dec-2024 03:25:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[16-Dec-2024 03:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[16-Dec-2024 03:26:01 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[16-Dec-2024 03:26:01 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[16-Dec-2024 03:26:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[16-Dec-2024 03:26:03 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[16-Dec-2024 03:26:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Dec-2024 03:26:03 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Dec-2024 03:26:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-May-2025 23:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[06-May-2025 23:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[06-May-2025 23:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[06-May-2025 23:47:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[06-May-2025 23:47:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[06-May-2025 23:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[06-May-2025 23:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 25
+[06-May-2025 23:47:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[06-May-2025 23:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[06-May-2025 23:47:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[06-May-2025 23:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[06-May-2025 23:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[06-May-2025 23:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[06-May-2025 23:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[06-May-2025 23:47:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[06-May-2025 23:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[06-May-2025 23:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[06-May-2025 23:47:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[06-May-2025 23:47:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[06-May-2025 23:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[06-May-2025 23:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[06-May-2025 23:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[06-May-2025 23:48:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[06-May-2025 23:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[06-May-2025 23:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[06-May-2025 23:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[06-May-2025 23:48:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[06-May-2025 23:48:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[06-May-2025 23:48:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[06-May-2025 23:48:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[06-May-2025 23:48:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[06-May-2025 23:48:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[06-May-2025 23:48:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[06-May-2025 23:48:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[06-May-2025 23:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[06-May-2025 23:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[06-May-2025 23:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[06-May-2025 23:48:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[06-May-2025 23:48:41 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[06-May-2025 23:48:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[06-May-2025 23:48:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[06-May-2025 23:48:43 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[06-May-2025 23:48:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[06-May-2025 23:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[06-May-2025 23:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[06-May-2025 23:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[06-May-2025 23:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[06-May-2025 23:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[06-May-2025 23:49:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[06-May-2025 23:49:00 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[06-May-2025 23:49:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[06-May-2025 23:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[06-May-2025 23:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[06-May-2025 23:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[06-May-2025 23:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[06-May-2025 23:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[06-May-2025 23:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[06-May-2025 23:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[06-May-2025 23:49:26 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[06-May-2025 23:49:26 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[06-May-2025 23:49:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[06-May-2025 23:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[06-May-2025 23:49:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[06-May-2025 23:49:37 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[06-May-2025 23:49:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[06-May-2025 23:49:40 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[06-May-2025 23:49:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-May-2025 23:49:40 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-May-2025 23:49:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[24-Jul-2025 10:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[30-Jul-2025 00:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[09-Aug-2025 00:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[16-Aug-2025 01:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[16-Aug-2025 22:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[16-Aug-2025 22:17:17 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[16-Aug-2025 22:17:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Aug-2025 22:17:17 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Aug-2025 22:17:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[17-Aug-2025 12:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[17-Aug-2025 19:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[17-Aug-2025 21:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[20-Aug-2025 19:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[20-Aug-2025 19:44:48 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[20-Aug-2025 19:44:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Aug-2025 19:44:48 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Aug-2025 19:44:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Aug-2025 08:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[25-Aug-2025 08:32:46 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[25-Aug-2025 08:32:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Aug-2025 08:32:46 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Aug-2025 08:32:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[29-Aug-2025 08:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[29-Aug-2025 08:39:44 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[29-Aug-2025 08:39:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[29-Aug-2025 08:39:44 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[29-Aug-2025 08:39:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Sep-2025 16:33:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[08-Sep-2025 16:33:08 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[08-Sep-2025 16:33:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Sep-2025 16:33:08 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Sep-2025 16:33:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Sep-2025 01:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[09-Sep-2025 01:33:51 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[09-Sep-2025 01:33:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Sep-2025 01:33:51 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Sep-2025 01:33:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[10-Sep-2025 06:35:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[10-Sep-2025 06:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2025 06:35:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[10-Sep-2025 06:35:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 25
+[10-Sep-2025 06:35:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[10-Sep-2025 06:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[10-Sep-2025 06:35:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[10-Sep-2025 06:35:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[10-Sep-2025 06:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[10-Sep-2025 06:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[10-Sep-2025 06:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[10-Sep-2025 06:35:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[10-Sep-2025 06:35:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[10-Sep-2025 06:35:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[10-Sep-2025 06:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[10-Sep-2025 06:35:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[10-Sep-2025 06:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[10-Sep-2025 06:35:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[10-Sep-2025 06:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[10-Sep-2025 06:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[10-Sep-2025 06:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[10-Sep-2025 06:35:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[10-Sep-2025 06:35:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[10-Sep-2025 06:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[10-Sep-2025 06:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[10-Sep-2025 06:35:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[10-Sep-2025 06:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[10-Sep-2025 06:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[10-Sep-2025 06:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[10-Sep-2025 06:35:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[10-Sep-2025 06:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[10-Sep-2025 06:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[10-Sep-2025 06:35:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[10-Sep-2025 06:35:37 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[10-Sep-2025 06:35:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[10-Sep-2025 06:35:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[10-Sep-2025 06:35:37 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[10-Sep-2025 06:35:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[10-Sep-2025 06:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[10-Sep-2025 06:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[10-Sep-2025 06:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[10-Sep-2025 06:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[10-Sep-2025 06:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[10-Sep-2025 06:35:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[10-Sep-2025 06:35:44 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[10-Sep-2025 06:35:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[10-Sep-2025 06:35:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[10-Sep-2025 06:35:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[10-Sep-2025 06:35:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[10-Sep-2025 06:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[10-Sep-2025 06:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[10-Sep-2025 06:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[10-Sep-2025 06:35:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[10-Sep-2025 06:35:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[10-Sep-2025 06:35:55 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[10-Sep-2025 06:35:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[10-Sep-2025 06:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[10-Sep-2025 06:36:01 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[10-Sep-2025 06:36:01 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[10-Sep-2025 06:36:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[10-Sep-2025 06:36:04 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[10-Sep-2025 06:36:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[10-Sep-2025 06:36:04 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[10-Sep-2025 06:36:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[11-Sep-2025 23:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[11-Sep-2025 23:01:00 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[11-Sep-2025 23:01:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[11-Sep-2025 23:01:00 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[11-Sep-2025 23:01:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[12-Sep-2025 14:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[12-Sep-2025 14:57:13 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[12-Sep-2025 14:57:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[12-Sep-2025 14:57:13 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[12-Sep-2025 14:57:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Sep-2025 06:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[14-Sep-2025 06:03:32 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[14-Sep-2025 06:03:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Sep-2025 06:03:32 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Sep-2025 06:03:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Sep-2025 06:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[20-Sep-2025 06:56:27 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[20-Sep-2025 06:56:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Sep-2025 06:56:27 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Sep-2025 06:56:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 14:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[25-Sep-2025 14:57:59 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[25-Sep-2025 14:57:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 14:57:59 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 14:57:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 20:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin-filters.php on line 11
+[25-Sep-2025 20:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[25-Sep-2025 20:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[25-Sep-2025 20:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-core-upgrader.php on line 25
+[25-Sep-2025 20:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-pure.php on line 28
+[25-Sep-2025 20:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-ftp-sockets.php on line 28
+[25-Sep-2025 20:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[25-Sep-2025 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[25-Sep-2025 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[25-Sep-2025 20:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[25-Sep-2025 20:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[25-Sep-2025 20:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-theme-upgrader.php on line 21
+[25-Sep-2025 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[25-Sep-2025 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[25-Sep-2025 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[25-Sep-2025 20:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[25-Sep-2025 20:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[25-Sep-2025 20:26:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[25-Sep-2025 20:26:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[25-Sep-2025 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[25-Sep-2025 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[25-Sep-2025 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[25-Sep-2025 20:26:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-links-list-table.php on line 17
+[25-Sep-2025 20:26:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[25-Sep-2025 20:26:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-media-list-table.php on line 17
+[25-Sep-2025 20:26:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[25-Sep-2025 20:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[25-Sep-2025 20:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[25-Sep-2025 20:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[25-Sep-2025 20:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[25-Sep-2025 20:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[25-Sep-2025 20:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[25-Sep-2025 20:26:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[25-Sep-2025 20:26:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[25-Sep-2025 20:26:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[25-Sep-2025 20:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[25-Sep-2025 20:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[25-Sep-2025 20:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[25-Sep-2025 20:26:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[25-Sep-2025 20:26:21 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[25-Sep-2025 20:26:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[25-Sep-2025 20:26:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/class-wp-users-list-table.php on line 17
+[25-Sep-2025 20:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/continents-cities.php on line 12
+[25-Sep-2025 20:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php:1535
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/deprecated.php on line 1535
+[25-Sep-2025 20:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/edit-tag-messages.php on line 14
+[25-Sep-2025 20:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/nieuwe1q/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/file.php on line 16
+[25-Sep-2025 20:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/nieuwe1q/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/menu.php on line 9
+[25-Sep-2025 20:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/ms-admin-filters.php on line 11
+[25-Sep-2025 20:26:26 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[25-Sep-2025 20:26:26 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[25-Sep-2025 20:26:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/nav-menu.php on line 11
+[25-Sep-2025 20:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[25-Sep-2025 20:26:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[25-Sep-2025 20:26:28 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[25-Sep-2025 20:26:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/template.php on line 12
+[25-Sep-2025 20:26:29 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[25-Sep-2025 20:26:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 20:26:29 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Sep-2025 20:26:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[28-Sep-2025 10:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[28-Sep-2025 10:25:27 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[28-Sep-2025 10:25:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[28-Sep-2025 10:25:27 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[28-Sep-2025 10:25:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[29-Sep-2025 17:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[04-Oct-2025 14:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[04-Oct-2025 14:17:12 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[04-Oct-2025 14:17:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Oct-2025 14:17:12 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Oct-2025 14:17:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Oct-2025 17:18:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[06-Oct-2025 17:18:46 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[06-Oct-2025 17:18:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Oct-2025 17:18:46 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Oct-2025 17:18:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 20:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[07-Oct-2025 20:25:12 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[07-Oct-2025 20:25:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 20:25:12 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 20:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 23:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[07-Oct-2025 23:09:42 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[07-Oct-2025 23:09:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 23:09:42 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Oct-2025 23:09:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Oct-2025 18:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[09-Oct-2025 18:38:06 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[09-Oct-2025 18:38:06 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Oct-2025 18:38:06 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[09-Oct-2025 18:38:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[13-Oct-2025 17:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[13-Oct-2025 17:38:31 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[13-Oct-2025 17:38:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[13-Oct-2025 17:38:31 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[13-Oct-2025 17:38:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[18-Oct-2025 14:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[18-Oct-2025 14:22:41 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[18-Oct-2025 14:22:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[18-Oct-2025 14:22:41 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[18-Oct-2025 14:22:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Oct-2025 23:47:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[25-Oct-2025 23:47:52 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[25-Oct-2025 23:47:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Oct-2025 23:47:52 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[25-Oct-2025 23:47:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 07:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[04-Nov-2025 07:45:48 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[04-Nov-2025 07:45:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 07:45:48 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 07:45:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 10:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[04-Nov-2025 10:13:36 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[04-Nov-2025 10:13:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 10:13:36 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[04-Nov-2025 10:13:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Nov-2025 05:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[06-Nov-2025 05:23:47 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[06-Nov-2025 05:23:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Nov-2025 05:23:47 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Nov-2025 05:23:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Nov-2025 16:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[08-Nov-2025 16:56:31 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[08-Nov-2025 16:56:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Nov-2025 16:56:31 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Nov-2025 16:56:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[13-Nov-2025 06:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[20-Nov-2025 22:55:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[20-Nov-2025 22:55:57 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[20-Nov-2025 22:55:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Nov-2025 22:55:57 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Nov-2025 22:55:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[01-Dec-2025 21:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[01-Dec-2025 21:07:28 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[01-Dec-2025 21:07:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[01-Dec-2025 21:07:28 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[01-Dec-2025 21:07:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Dec-2025 21:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[03-Dec-2025 21:37:25 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[03-Dec-2025 21:37:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Dec-2025 21:37:25 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Dec-2025 21:37:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[05-Dec-2025 11:18:37 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[05-Dec-2025 11:18:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 11:18:37 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 11:18:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 17:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[05-Dec-2025 17:40:54 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[05-Dec-2025 17:40:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 17:40:54 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 17:40:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 18:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[05-Dec-2025 18:10:37 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[05-Dec-2025 18:10:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 18:10:37 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[05-Dec-2025 18:10:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Dec-2025 19:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[06-Dec-2025 19:26:16 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[06-Dec-2025 19:26:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Dec-2025 19:26:16 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Dec-2025 19:26:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Dec-2025 11:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[07-Dec-2025 11:23:16 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[07-Dec-2025 11:23:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Dec-2025 11:23:16 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[07-Dec-2025 11:23:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Dec-2025 01:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[20-Dec-2025 01:28:34 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[20-Dec-2025 01:28:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Dec-2025 01:28:34 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[20-Dec-2025 01:28:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Dec-2025 02:12:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[21-Dec-2025 02:12:17 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[21-Dec-2025 02:12:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Dec-2025 02:12:17 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Dec-2025 02:12:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[21-Dec-2025 22:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nieuwe1q/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/admin.php on line 16
+[27-Dec-2025 10:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[27-Dec-2025 10:23:56 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[27-Dec-2025 10:23:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[27-Dec-2025 10:23:56 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[27-Dec-2025 10:23:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 10:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[02-Jan-2026 10:31:19 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[02-Jan-2026 10:31:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 10:31:19 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 10:31:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 22:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[02-Jan-2026 22:54:09 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[02-Jan-2026 22:54:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 22:54:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[02-Jan-2026 22:54:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Jan-2026 19:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[03-Jan-2026 19:57:28 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[03-Jan-2026 19:57:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Jan-2026 19:57:28 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[03-Jan-2026 19:57:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Jan-2026 23:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[06-Jan-2026 23:50:52 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[06-Jan-2026 23:50:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Jan-2026 23:50:52 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[06-Jan-2026 23:50:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Jan-2026 23:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[08-Jan-2026 23:58:57 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[08-Jan-2026 23:58:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Jan-2026 23:58:57 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[08-Jan-2026 23:58:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Jan-2026 12:03:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[14-Jan-2026 12:03:02 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[14-Jan-2026 12:03:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Jan-2026 12:03:02 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[14-Jan-2026 12:03:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Jan-2026 04:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/nieuwe1q/public_html/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-admin/includes/schema.php on line 23
+[16-Jan-2026 04:49:43 UTC] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 12
+[16-Jan-2026 04:49:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Jan-2026 04:49:43 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
+[16-Jan-2026 04:49:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-admin/includes/upgrade.php on line 17
