@@ -1,0 +1,40 @@
+[16-Jun-2024 12:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[23-Jun-2024 07:40:39 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[19-Jul-2024 13:15:19 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[18-Aug-2024 00:55:24 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[26-Aug-2024 11:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[08-Sep-2024 07:41:08 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[17-Sep-2024 04:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[18-Sep-2024 19:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[21-Oct-2024 19:03:15 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53
+[21-Oct-2024 19:09:51 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/SimplePie/Core.php on line 53

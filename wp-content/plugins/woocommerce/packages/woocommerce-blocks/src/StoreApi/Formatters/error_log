@@ -1,0 +1,640 @@
+[25-Aug-2025 08:21:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[25-Aug-2025 08:21:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[25-Aug-2025 08:21:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[25-Aug-2025 08:21:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[29-Aug-2025 08:24:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[29-Aug-2025 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[29-Aug-2025 08:24:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[29-Aug-2025 08:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[08-Sep-2025 16:14:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[08-Sep-2025 16:14:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[08-Sep-2025 16:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[08-Sep-2025 16:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[09-Sep-2025 01:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[09-Sep-2025 01:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[09-Sep-2025 01:16:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[09-Sep-2025 01:16:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[11-Sep-2025 22:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[11-Sep-2025 22:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[11-Sep-2025 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[11-Sep-2025 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[12-Sep-2025 14:37:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[12-Sep-2025 14:37:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[12-Sep-2025 14:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[12-Sep-2025 14:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[14-Sep-2025 05:40:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[14-Sep-2025 05:40:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[14-Sep-2025 05:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[14-Sep-2025 05:40:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[20-Sep-2025 06:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[20-Sep-2025 06:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[20-Sep-2025 06:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[20-Sep-2025 06:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[25-Sep-2025 14:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[25-Sep-2025 14:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[25-Sep-2025 14:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[25-Sep-2025 14:42:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[28-Sep-2025 10:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[28-Sep-2025 10:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[28-Sep-2025 10:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[28-Sep-2025 10:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[04-Oct-2025 14:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[04-Oct-2025 14:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[04-Oct-2025 14:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[04-Oct-2025 14:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[06-Oct-2025 17:03:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[06-Oct-2025 17:03:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[06-Oct-2025 17:03:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[06-Oct-2025 17:03:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[07-Oct-2025 20:13:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[07-Oct-2025 20:13:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[07-Oct-2025 20:13:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[07-Oct-2025 20:13:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[07-Oct-2025 22:55:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[07-Oct-2025 22:55:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[07-Oct-2025 22:55:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[07-Oct-2025 22:55:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[09-Oct-2025 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[09-Oct-2025 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[09-Oct-2025 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[09-Oct-2025 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[13-Oct-2025 17:19:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[13-Oct-2025 17:19:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[13-Oct-2025 17:20:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[13-Oct-2025 17:20:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[18-Oct-2025 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[18-Oct-2025 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[18-Oct-2025 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[18-Oct-2025 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[25-Oct-2025 23:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[25-Oct-2025 23:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[25-Oct-2025 23:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[25-Oct-2025 23:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[04-Nov-2025 07:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[04-Nov-2025 07:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[04-Nov-2025 07:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[04-Nov-2025 07:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[04-Nov-2025 10:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[04-Nov-2025 10:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[04-Nov-2025 10:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[04-Nov-2025 10:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[06-Nov-2025 05:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[06-Nov-2025 05:18:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[06-Nov-2025 05:18:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[06-Nov-2025 05:18:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[08-Nov-2025 16:33:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[08-Nov-2025 16:33:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[08-Nov-2025 16:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[08-Nov-2025 16:33:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[20-Nov-2025 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[20-Nov-2025 22:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[20-Nov-2025 22:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[20-Nov-2025 22:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[01-Dec-2025 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[01-Dec-2025 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[01-Dec-2025 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[01-Dec-2025 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[03-Dec-2025 21:30:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[03-Dec-2025 21:30:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[03-Dec-2025 21:30:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[03-Dec-2025 21:30:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[05-Dec-2025 11:08:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[05-Dec-2025 11:08:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[05-Dec-2025 11:08:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[05-Dec-2025 11:08:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[05-Dec-2025 17:15:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[05-Dec-2025 17:15:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[05-Dec-2025 17:15:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[05-Dec-2025 17:15:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[05-Dec-2025 18:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[05-Dec-2025 18:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[05-Dec-2025 18:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[05-Dec-2025 18:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[06-Dec-2025 19:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[06-Dec-2025 19:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[06-Dec-2025 19:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[06-Dec-2025 19:11:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[07-Dec-2025 10:39:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[07-Dec-2025 10:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[07-Dec-2025 10:39:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[07-Dec-2025 10:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[20-Dec-2025 01:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[20-Dec-2025 01:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[20-Dec-2025 01:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[20-Dec-2025 01:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[21-Dec-2025 02:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[21-Dec-2025 02:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[21-Dec-2025 02:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[21-Dec-2025 02:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[27-Dec-2025 10:15:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[27-Dec-2025 10:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[27-Dec-2025 10:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[27-Dec-2025 10:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[02-Jan-2026 10:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[02-Jan-2026 10:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[02-Jan-2026 10:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[02-Jan-2026 10:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[02-Jan-2026 22:27:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[02-Jan-2026 22:27:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[02-Jan-2026 22:27:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[02-Jan-2026 22:27:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[03-Jan-2026 18:54:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[03-Jan-2026 18:54:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[03-Jan-2026 18:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[03-Jan-2026 18:54:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[06-Jan-2026 23:36:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[06-Jan-2026 23:36:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[06-Jan-2026 23:36:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[06-Jan-2026 23:36:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[08-Jan-2026 23:43:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[08-Jan-2026 23:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[08-Jan-2026 23:43:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[08-Jan-2026 23:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[14-Jan-2026 11:55:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[14-Jan-2026 11:55:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[14-Jan-2026 11:55:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[14-Jan-2026 11:55:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9
+[16-Jan-2026 04:41:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/CurrencyFormatter.php on line 9
+[16-Jan-2026 04:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/DefaultFormatter.php on line 7
+[16-Jan-2026 04:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/HtmlFormatter.php on line 11
+[16-Jan-2026 04:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\StoreApi\Formatters\FormatterInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php on line 9

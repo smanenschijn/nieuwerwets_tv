@@ -1,0 +1,168 @@
+[16-Aug-2025 22:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[20-Aug-2025 19:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[25-Aug-2025 08:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[29-Aug-2025 08:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[08-Sep-2025 16:25:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[09-Sep-2025 01:27:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[11-Sep-2025 22:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[12-Sep-2025 14:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[14-Sep-2025 05:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[20-Sep-2025 06:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[25-Sep-2025 14:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[28-Sep-2025 10:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[04-Oct-2025 14:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[06-Oct-2025 17:12:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[07-Oct-2025 20:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[07-Oct-2025 23:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[09-Oct-2025 18:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[13-Oct-2025 17:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[18-Oct-2025 14:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[25-Oct-2025 23:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[04-Nov-2025 07:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[04-Nov-2025 10:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[06-Nov-2025 05:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[08-Nov-2025 16:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[20-Nov-2025 22:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[01-Dec-2025 21:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[03-Dec-2025 21:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[05-Dec-2025 11:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[05-Dec-2025 17:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[05-Dec-2025 18:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[06-Dec-2025 19:19:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[07-Dec-2025 11:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[20-Dec-2025 01:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[21-Dec-2025 02:08:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[27-Dec-2025 10:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[02-Jan-2026 10:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[02-Jan-2026 22:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[03-Jan-2026 19:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[06-Jan-2026 23:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[08-Jan-2026 23:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[14-Jan-2026 12:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20
+[16-Jan-2026 04:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/templates/emails/email-mobile-messaging.php on line 20

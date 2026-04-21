@@ -1,0 +1,352 @@
+[25-Aug-2025 07:57:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Aug-2025 08:07:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[29-Aug-2025 07:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[29-Aug-2025 08:08:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Sep-2025 15:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Sep-2025 15:51:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2025 00:45:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Sep-2025 00:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Sep-2025 22:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Sep-2025 22:27:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[12-Sep-2025 14:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[12-Sep-2025 14:15:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Sep-2025 05:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Sep-2025 05:19:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Sep-2025 05:38:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Sep-2025 05:58:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Sep-2025 14:08:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Sep-2025 14:21:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[28-Sep-2025 09:51:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[28-Sep-2025 10:00:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Oct-2025 13:58:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Oct-2025 14:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Oct-2025 16:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Oct-2025 16:45:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Oct-2025 19:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Oct-2025 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Oct-2025 22:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Oct-2025 22:41:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Oct-2025 18:13:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[09-Oct-2025 18:20:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[13-Oct-2025 16:39:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[13-Oct-2025 16:59:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[18-Oct-2025 14:00:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[18-Oct-2025 14:06:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Oct-2025 22:50:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Oct-2025 23:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Nov-2025 07:21:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Nov-2025 07:28:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Nov-2025 09:50:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Nov-2025 09:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Nov-2025 05:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Nov-2025 05:09:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Nov-2025 15:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Nov-2025 16:12:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 22:18:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 22:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Nov-2025 12:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Nov-2025 12:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Nov-2025 12:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[25-Nov-2025 12:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Dec-2025 20:36:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Dec-2025 20:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[03-Dec-2025 21:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[03-Dec-2025 21:20:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 10:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 10:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 16:34:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 16:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 17:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[05-Dec-2025 17:54:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Dec-2025 18:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Dec-2025 18:56:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Dec-2025 09:06:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[07-Dec-2025 09:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Dec-2025 17:30:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Dec-2025 17:30:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Dec-2025 17:31:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[11-Dec-2025 17:31:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Dec-2025 00:38:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Dec-2025 00:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Dec-2025 01:22:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[21-Dec-2025 01:36:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[27-Dec-2025 09:55:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[27-Dec-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[02-Jan-2026 09:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[02-Jan-2026 09:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[02-Jan-2026 21:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[02-Jan-2026 21:51:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[03-Jan-2026 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Jan-2026 23:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Jan-2026 23:23:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Jan-2026 23:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Jan-2026 23:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Jan-2026 23:36:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Jan-2026 11:39:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Jan-2026 11:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Jan-2026 04:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Jan-2026 04:30:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

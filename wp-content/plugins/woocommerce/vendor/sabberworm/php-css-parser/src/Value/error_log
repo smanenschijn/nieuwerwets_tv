@@ -1,0 +1,1920 @@
+[25-Aug-2025 08:31:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[25-Aug-2025 08:31:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[25-Aug-2025 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[25-Aug-2025 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[25-Aug-2025 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[25-Aug-2025 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[25-Aug-2025 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[25-Aug-2025 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[25-Aug-2025 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[25-Aug-2025 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[25-Aug-2025 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[25-Aug-2025 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[29-Aug-2025 08:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[29-Aug-2025 08:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[29-Aug-2025 08:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[29-Aug-2025 08:37:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[29-Aug-2025 08:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[29-Aug-2025 08:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[29-Aug-2025 08:37:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[29-Aug-2025 08:38:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[29-Aug-2025 08:38:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[29-Aug-2025 08:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[29-Aug-2025 08:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[29-Aug-2025 08:38:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[08-Sep-2025 16:31:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[08-Sep-2025 16:31:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[08-Sep-2025 16:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[08-Sep-2025 16:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[08-Sep-2025 16:31:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[08-Sep-2025 16:31:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[08-Sep-2025 16:31:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[08-Sep-2025 16:31:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[08-Sep-2025 16:31:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[08-Sep-2025 16:31:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[08-Sep-2025 16:31:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[08-Sep-2025 16:31:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[09-Sep-2025 01:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[09-Sep-2025 01:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[09-Sep-2025 01:32:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[09-Sep-2025 01:32:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[09-Sep-2025 01:32:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[09-Sep-2025 01:32:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[09-Sep-2025 01:32:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[09-Sep-2025 01:32:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[09-Sep-2025 01:32:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[09-Sep-2025 01:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[09-Sep-2025 01:32:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[09-Sep-2025 01:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[11-Sep-2025 22:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[11-Sep-2025 22:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[11-Sep-2025 22:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[11-Sep-2025 22:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[11-Sep-2025 22:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[11-Sep-2025 22:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[11-Sep-2025 22:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[11-Sep-2025 22:59:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[11-Sep-2025 22:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[11-Sep-2025 22:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[11-Sep-2025 22:59:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[11-Sep-2025 22:59:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[12-Sep-2025 14:55:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[12-Sep-2025 14:55:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[12-Sep-2025 14:55:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[12-Sep-2025 14:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[12-Sep-2025 14:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[12-Sep-2025 14:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[12-Sep-2025 14:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[12-Sep-2025 14:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[12-Sep-2025 14:55:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[12-Sep-2025 14:55:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[12-Sep-2025 14:55:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[12-Sep-2025 14:55:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[14-Sep-2025 06:00:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[14-Sep-2025 06:00:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[14-Sep-2025 06:00:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[14-Sep-2025 06:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[14-Sep-2025 06:00:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[14-Sep-2025 06:00:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[14-Sep-2025 06:00:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[14-Sep-2025 06:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[14-Sep-2025 06:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[14-Sep-2025 06:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[14-Sep-2025 06:01:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[14-Sep-2025 06:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[20-Sep-2025 06:53:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[20-Sep-2025 06:53:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[20-Sep-2025 06:53:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[20-Sep-2025 06:53:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[20-Sep-2025 06:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[20-Sep-2025 06:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[20-Sep-2025 06:53:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[20-Sep-2025 06:53:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[20-Sep-2025 06:53:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[20-Sep-2025 06:53:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[20-Sep-2025 06:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[20-Sep-2025 06:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[25-Sep-2025 14:56:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[25-Sep-2025 14:56:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[25-Sep-2025 14:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[25-Sep-2025 14:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[25-Sep-2025 14:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[25-Sep-2025 14:56:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[25-Sep-2025 14:56:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[25-Sep-2025 14:56:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[25-Sep-2025 14:56:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[25-Sep-2025 14:56:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[25-Sep-2025 14:56:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[25-Sep-2025 14:56:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[28-Sep-2025 10:24:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[28-Sep-2025 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[28-Sep-2025 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[28-Sep-2025 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[28-Sep-2025 10:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[28-Sep-2025 10:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[28-Sep-2025 10:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[28-Sep-2025 10:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[28-Sep-2025 10:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[28-Sep-2025 10:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[28-Sep-2025 10:24:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[28-Sep-2025 10:24:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[04-Oct-2025 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[06-Oct-2025 17:17:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[06-Oct-2025 17:17:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[06-Oct-2025 17:17:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[06-Oct-2025 17:17:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[06-Oct-2025 17:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[06-Oct-2025 17:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[06-Oct-2025 17:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[06-Oct-2025 17:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[06-Oct-2025 17:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[06-Oct-2025 17:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[06-Oct-2025 17:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[06-Oct-2025 17:17:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[07-Oct-2025 20:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[07-Oct-2025 20:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[07-Oct-2025 20:24:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[07-Oct-2025 20:24:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[07-Oct-2025 20:24:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[07-Oct-2025 20:24:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[07-Oct-2025 20:24:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[07-Oct-2025 20:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[07-Oct-2025 20:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[07-Oct-2025 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[07-Oct-2025 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[07-Oct-2025 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[07-Oct-2025 23:08:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[07-Oct-2025 23:08:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[07-Oct-2025 23:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[07-Oct-2025 23:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[07-Oct-2025 23:08:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[07-Oct-2025 23:08:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[07-Oct-2025 23:08:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[07-Oct-2025 23:08:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[07-Oct-2025 23:08:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[07-Oct-2025 23:08:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[07-Oct-2025 23:08:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[07-Oct-2025 23:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[09-Oct-2025 18:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[09-Oct-2025 18:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[09-Oct-2025 18:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[09-Oct-2025 18:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[13-Oct-2025 17:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[13-Oct-2025 17:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[13-Oct-2025 17:36:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[13-Oct-2025 17:36:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[13-Oct-2025 17:36:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[13-Oct-2025 17:36:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[13-Oct-2025 17:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[13-Oct-2025 17:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[13-Oct-2025 17:36:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[13-Oct-2025 17:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[13-Oct-2025 17:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[13-Oct-2025 17:36:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[18-Oct-2025 14:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[25-Oct-2025 23:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[25-Oct-2025 23:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[25-Oct-2025 23:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[25-Oct-2025 23:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[25-Oct-2025 23:44:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[25-Oct-2025 23:44:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[25-Oct-2025 23:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[25-Oct-2025 23:44:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[25-Oct-2025 23:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[25-Oct-2025 23:45:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[25-Oct-2025 23:45:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[25-Oct-2025 23:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[04-Nov-2025 07:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[04-Nov-2025 07:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[04-Nov-2025 07:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[04-Nov-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[04-Nov-2025 10:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[06-Nov-2025 05:23:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[06-Nov-2025 05:23:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[06-Nov-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[08-Nov-2025 16:54:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[08-Nov-2025 16:54:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[08-Nov-2025 16:54:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[08-Nov-2025 16:54:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[08-Nov-2025 16:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[08-Nov-2025 16:54:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[08-Nov-2025 16:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[08-Nov-2025 16:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[08-Nov-2025 16:54:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[08-Nov-2025 16:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[08-Nov-2025 16:54:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[08-Nov-2025 16:54:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[20-Nov-2025 22:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[20-Nov-2025 22:54:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[20-Nov-2025 22:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[20-Nov-2025 22:54:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[20-Nov-2025 22:54:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[20-Nov-2025 22:54:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[20-Nov-2025 22:54:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[20-Nov-2025 22:54:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[20-Nov-2025 22:54:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[20-Nov-2025 22:54:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[20-Nov-2025 22:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[20-Nov-2025 22:54:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[01-Dec-2025 21:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[01-Dec-2025 21:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[01-Dec-2025 21:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[01-Dec-2025 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[03-Dec-2025 21:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[03-Dec-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[03-Dec-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[03-Dec-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[03-Dec-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[03-Dec-2025 21:36:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[03-Dec-2025 21:36:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[05-Dec-2025 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[05-Dec-2025 11:17:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[05-Dec-2025 11:17:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[05-Dec-2025 11:17:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[05-Dec-2025 11:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[05-Dec-2025 11:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[05-Dec-2025 11:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[05-Dec-2025 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[05-Dec-2025 11:17:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[05-Dec-2025 11:17:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[05-Dec-2025 11:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[05-Dec-2025 11:17:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[05-Dec-2025 17:38:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[05-Dec-2025 17:38:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[05-Dec-2025 17:38:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[05-Dec-2025 17:38:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[05-Dec-2025 17:38:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[05-Dec-2025 17:38:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[05-Dec-2025 17:38:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[05-Dec-2025 17:38:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[05-Dec-2025 17:38:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[05-Dec-2025 17:38:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[05-Dec-2025 17:38:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[05-Dec-2025 17:38:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[05-Dec-2025 18:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[05-Dec-2025 18:10:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[05-Dec-2025 18:10:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[06-Dec-2025 19:24:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[06-Dec-2025 19:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[06-Dec-2025 19:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[06-Dec-2025 19:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[06-Dec-2025 19:24:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[06-Dec-2025 19:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[06-Dec-2025 19:24:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[06-Dec-2025 19:24:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[06-Dec-2025 19:24:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[06-Dec-2025 19:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[06-Dec-2025 19:24:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[06-Dec-2025 19:24:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[07-Dec-2025 11:18:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[07-Dec-2025 11:18:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[07-Dec-2025 11:18:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[07-Dec-2025 11:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[07-Dec-2025 11:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[07-Dec-2025 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[07-Dec-2025 11:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[07-Dec-2025 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[07-Dec-2025 11:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[07-Dec-2025 11:18:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[07-Dec-2025 11:18:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[07-Dec-2025 11:18:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[20-Dec-2025 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[21-Dec-2025 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[21-Dec-2025 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[21-Dec-2025 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[21-Dec-2025 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[21-Dec-2025 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[21-Dec-2025 02:11:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[27-Dec-2025 10:23:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[27-Dec-2025 10:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[27-Dec-2025 10:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[27-Dec-2025 10:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[27-Dec-2025 10:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[27-Dec-2025 10:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[27-Dec-2025 10:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[27-Dec-2025 10:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[27-Dec-2025 10:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[27-Dec-2025 10:23:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[27-Dec-2025 10:23:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[27-Dec-2025 10:23:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[02-Jan-2026 10:29:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[02-Jan-2026 10:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[02-Jan-2026 10:29:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[02-Jan-2026 10:29:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[02-Jan-2026 10:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[02-Jan-2026 10:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[02-Jan-2026 10:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[02-Jan-2026 10:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[02-Jan-2026 10:29:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[02-Jan-2026 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[02-Jan-2026 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[02-Jan-2026 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[02-Jan-2026 22:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[02-Jan-2026 22:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[02-Jan-2026 22:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[02-Jan-2026 22:49:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[02-Jan-2026 22:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[02-Jan-2026 22:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[02-Jan-2026 22:49:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[02-Jan-2026 22:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[02-Jan-2026 22:49:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[02-Jan-2026 22:49:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[02-Jan-2026 22:49:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[02-Jan-2026 22:50:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[03-Jan-2026 19:53:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[03-Jan-2026 19:53:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[03-Jan-2026 19:53:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[03-Jan-2026 19:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[03-Jan-2026 19:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[03-Jan-2026 19:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[03-Jan-2026 19:53:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[03-Jan-2026 19:53:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[03-Jan-2026 19:53:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[03-Jan-2026 19:53:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[03-Jan-2026 19:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[03-Jan-2026 19:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[06-Jan-2026 23:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[06-Jan-2026 23:49:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[06-Jan-2026 23:49:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[06-Jan-2026 23:49:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[06-Jan-2026 23:49:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[06-Jan-2026 23:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[06-Jan-2026 23:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[06-Jan-2026 23:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[06-Jan-2026 23:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[06-Jan-2026 23:49:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[06-Jan-2026 23:49:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[06-Jan-2026 23:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[08-Jan-2026 23:57:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[08-Jan-2026 23:57:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[08-Jan-2026 23:57:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[08-Jan-2026 23:57:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[08-Jan-2026 23:57:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[08-Jan-2026 23:57:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[08-Jan-2026 23:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[08-Jan-2026 23:57:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[08-Jan-2026 23:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[08-Jan-2026 23:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[08-Jan-2026 23:57:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[08-Jan-2026 23:57:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[14-Jan-2026 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[14-Jan-2026 12:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[16-Jan-2026 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[16-Jan-2026 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[16-Jan-2026 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[16-Jan-2026 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\RuleValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/CalcRuleValueList.php on line 7
+[16-Jan-2026 04:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[16-Jan-2026 04:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[16-Jan-2026 04:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[16-Jan-2026 04:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[16-Jan-2026 04:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10
+[16-Jan-2026 04:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[16-Jan-2026 04:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[16-Jan-2026 04:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7

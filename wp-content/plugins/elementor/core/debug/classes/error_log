@@ -1,0 +1,64 @@
+[25-Nov-2025 12:59:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[25-Nov-2025 12:59:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[25-Nov-2025 12:59:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[25-Nov-2025 12:59:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[25-Nov-2025 12:59:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[25-Nov-2025 12:59:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[25-Nov-2025 12:59:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[25-Nov-2025 12:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[11-Dec-2025 17:33:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[11-Dec-2025 17:33:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[11-Dec-2025 17:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[11-Dec-2025 17:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[11-Dec-2025 17:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[11-Dec-2025 17:33:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[11-Dec-2025 17:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[11-Dec-2025 17:33:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Debug\Classes\Inspection_Base' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7

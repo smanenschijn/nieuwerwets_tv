@@ -1,0 +1,640 @@
+[25-Aug-2025 08:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[25-Aug-2025 08:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[25-Aug-2025 08:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[25-Aug-2025 08:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[29-Aug-2025 08:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[29-Aug-2025 08:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[29-Aug-2025 08:17:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[29-Aug-2025 08:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[08-Sep-2025 16:04:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[08-Sep-2025 16:04:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[08-Sep-2025 16:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[08-Sep-2025 16:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[09-Sep-2025 01:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[09-Sep-2025 01:07:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[09-Sep-2025 01:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[09-Sep-2025 01:07:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[11-Sep-2025 22:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[11-Sep-2025 22:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[11-Sep-2025 22:36:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[11-Sep-2025 22:36:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[12-Sep-2025 14:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[12-Sep-2025 14:27:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[12-Sep-2025 14:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[12-Sep-2025 14:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[14-Sep-2025 05:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[14-Sep-2025 05:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[14-Sep-2025 05:31:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[14-Sep-2025 05:31:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[20-Sep-2025 06:15:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[20-Sep-2025 06:15:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[20-Sep-2025 06:15:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[20-Sep-2025 06:15:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[25-Sep-2025 14:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[25-Sep-2025 14:32:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[25-Sep-2025 14:32:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[25-Sep-2025 14:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[28-Sep-2025 10:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[28-Sep-2025 10:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[28-Sep-2025 10:09:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[28-Sep-2025 10:09:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[04-Oct-2025 14:08:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[04-Oct-2025 14:08:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[04-Oct-2025 14:08:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[04-Oct-2025 14:08:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[06-Oct-2025 16:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[06-Oct-2025 16:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[06-Oct-2025 16:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[06-Oct-2025 16:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[07-Oct-2025 20:06:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[07-Oct-2025 20:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[07-Oct-2025 20:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[07-Oct-2025 20:06:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[07-Oct-2025 22:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[07-Oct-2025 22:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[07-Oct-2025 22:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[07-Oct-2025 22:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[09-Oct-2025 18:26:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[09-Oct-2025 18:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[09-Oct-2025 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[09-Oct-2025 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[13-Oct-2025 17:10:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[13-Oct-2025 17:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[13-Oct-2025 17:10:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[13-Oct-2025 17:10:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[18-Oct-2025 14:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[18-Oct-2025 14:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[18-Oct-2025 14:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[18-Oct-2025 14:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[25-Oct-2025 23:15:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[25-Oct-2025 23:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[25-Oct-2025 23:15:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[25-Oct-2025 23:15:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[04-Nov-2025 07:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[04-Nov-2025 07:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[04-Nov-2025 07:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[04-Nov-2025 07:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[04-Nov-2025 10:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[04-Nov-2025 10:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[04-Nov-2025 10:02:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[04-Nov-2025 10:02:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[06-Nov-2025 05:14:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[06-Nov-2025 05:14:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[06-Nov-2025 05:14:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[06-Nov-2025 05:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[08-Nov-2025 16:22:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[08-Nov-2025 16:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[08-Nov-2025 16:22:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[08-Nov-2025 16:22:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[20-Nov-2025 22:34:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[20-Nov-2025 22:34:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[20-Nov-2025 22:34:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[20-Nov-2025 22:34:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[01-Dec-2025 20:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[01-Dec-2025 20:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[01-Dec-2025 20:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[01-Dec-2025 20:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[03-Dec-2025 21:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[03-Dec-2025 21:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[03-Dec-2025 21:25:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[03-Dec-2025 21:25:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[05-Dec-2025 11:02:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[05-Dec-2025 11:02:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[05-Dec-2025 11:02:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[05-Dec-2025 11:02:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[05-Dec-2025 17:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[05-Dec-2025 17:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[05-Dec-2025 17:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[05-Dec-2025 17:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[05-Dec-2025 18:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[05-Dec-2025 18:00:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[05-Dec-2025 18:00:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[05-Dec-2025 18:00:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[06-Dec-2025 19:03:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[06-Dec-2025 19:03:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[06-Dec-2025 19:03:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[06-Dec-2025 19:03:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[07-Dec-2025 10:15:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[07-Dec-2025 10:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[07-Dec-2025 10:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[07-Dec-2025 10:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[20-Dec-2025 01:03:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[20-Dec-2025 01:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[20-Dec-2025 01:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[20-Dec-2025 01:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[21-Dec-2025 01:50:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[21-Dec-2025 01:50:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[21-Dec-2025 01:50:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[21-Dec-2025 01:50:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[27-Dec-2025 10:09:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[27-Dec-2025 10:09:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[27-Dec-2025 10:09:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[27-Dec-2025 10:09:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[02-Jan-2026 10:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[02-Jan-2026 10:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[02-Jan-2026 10:01:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[02-Jan-2026 10:01:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[02-Jan-2026 22:10:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[02-Jan-2026 22:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[02-Jan-2026 22:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[02-Jan-2026 22:10:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[03-Jan-2026 18:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[03-Jan-2026 18:29:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[03-Jan-2026 18:29:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[03-Jan-2026 18:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[06-Jan-2026 23:29:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[06-Jan-2026 23:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[06-Jan-2026 23:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[06-Jan-2026 23:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[08-Jan-2026 23:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[08-Jan-2026 23:34:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[08-Jan-2026 23:34:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[08-Jan-2026 23:34:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[14-Jan-2026 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[14-Jan-2026 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[14-Jan-2026 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[14-Jan-2026 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5
+[16-Jan-2026 04:36:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverInterface.php on line 8
+[16-Jan-2026 04:36:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassName.php on line 5
+[16-Jan-2026 04:36:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\ClassNameInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ClassNameWithOptionalValue.php on line 5
+[16-Jan-2026 04:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\Argument\RawArgumentInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/RawArgument.php on line 5

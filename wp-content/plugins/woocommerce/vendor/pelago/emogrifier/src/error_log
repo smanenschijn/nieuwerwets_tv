@@ -1,0 +1,160 @@
+[25-Aug-2025 08:31:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[29-Aug-2025 08:36:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[08-Sep-2025 16:30:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[09-Sep-2025 01:31:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[11-Sep-2025 22:58:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[12-Sep-2025 14:54:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[14-Sep-2025 05:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[20-Sep-2025 06:52:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[25-Sep-2025 14:55:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[28-Sep-2025 10:23:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[04-Oct-2025 14:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[06-Oct-2025 17:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[07-Oct-2025 20:23:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[07-Oct-2025 23:07:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[09-Oct-2025 18:37:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[13-Oct-2025 17:35:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[18-Oct-2025 14:21:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[25-Oct-2025 23:42:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[04-Nov-2025 07:44:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[04-Nov-2025 10:12:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[06-Nov-2025 05:22:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[08-Nov-2025 16:53:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[20-Nov-2025 22:53:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[01-Dec-2025 21:06:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[03-Dec-2025 21:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[05-Dec-2025 11:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[05-Dec-2025 17:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[05-Dec-2025 18:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[06-Dec-2025 19:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[07-Dec-2025 11:15:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[20-Dec-2025 01:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[21-Dec-2025 02:10:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[27-Dec-2025 10:22:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[02-Jan-2026 10:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[02-Jan-2026 22:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[03-Jan-2026 19:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[06-Jan-2026 23:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[08-Jan-2026 23:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[14-Jan-2026 12:01:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16
+[16-Jan-2026 04:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Pelago\Emogrifier\HtmlProcessor\AbstractHtmlProcessor' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/pelago/emogrifier/src/CssInliner.php on line 16

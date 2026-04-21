@@ -1,0 +1,32 @@
+[25-Nov-2025 13:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[25-Nov-2025 13:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[25-Nov-2025 13:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[25-Nov-2025 13:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[11-Dec-2025 17:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[11-Dec-2025 17:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[11-Dec-2025 17:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[11-Dec-2025 17:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/kits/views/panel.php on line 12

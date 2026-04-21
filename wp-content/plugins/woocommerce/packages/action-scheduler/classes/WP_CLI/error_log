@@ -1,0 +1,480 @@
+[25-Aug-2025 08:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[25-Aug-2025 08:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[25-Aug-2025 08:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[29-Aug-2025 08:18:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[29-Aug-2025 08:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[29-Aug-2025 08:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[08-Sep-2025 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[08-Sep-2025 16:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[08-Sep-2025 16:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[09-Sep-2025 01:08:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[09-Sep-2025 01:08:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[09-Sep-2025 01:08:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[11-Sep-2025 22:36:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[11-Sep-2025 22:36:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[11-Sep-2025 22:36:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[12-Sep-2025 14:28:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[12-Sep-2025 14:28:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[12-Sep-2025 14:28:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[14-Sep-2025 05:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[14-Sep-2025 05:32:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[14-Sep-2025 05:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[20-Sep-2025 06:16:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[20-Sep-2025 06:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[20-Sep-2025 06:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[25-Sep-2025 14:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[25-Sep-2025 14:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[25-Sep-2025 14:33:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[28-Sep-2025 10:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[28-Sep-2025 10:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[28-Sep-2025 10:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[04-Oct-2025 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[04-Oct-2025 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[04-Oct-2025 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[06-Oct-2025 16:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[06-Oct-2025 16:55:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[06-Oct-2025 16:55:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[07-Oct-2025 20:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[07-Oct-2025 20:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[07-Oct-2025 20:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[07-Oct-2025 22:50:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[07-Oct-2025 22:50:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[07-Oct-2025 22:50:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[09-Oct-2025 18:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[09-Oct-2025 18:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[09-Oct-2025 18:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[13-Oct-2025 17:12:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[13-Oct-2025 17:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[13-Oct-2025 17:12:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[18-Oct-2025 14:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[18-Oct-2025 14:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[18-Oct-2025 14:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[25-Oct-2025 23:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[25-Oct-2025 23:16:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[25-Oct-2025 23:16:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[04-Nov-2025 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[04-Nov-2025 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[04-Nov-2025 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[04-Nov-2025 10:03:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[04-Nov-2025 10:03:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[04-Nov-2025 10:03:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[06-Nov-2025 05:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[06-Nov-2025 05:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[06-Nov-2025 05:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[08-Nov-2025 16:24:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[08-Nov-2025 16:24:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[08-Nov-2025 16:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[20-Nov-2025 22:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[20-Nov-2025 22:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[20-Nov-2025 22:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[01-Dec-2025 20:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[01-Dec-2025 20:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[01-Dec-2025 20:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[03-Dec-2025 21:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[03-Dec-2025 21:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[03-Dec-2025 21:26:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[05-Dec-2025 11:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[05-Dec-2025 11:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[05-Dec-2025 11:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[05-Dec-2025 17:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[05-Dec-2025 17:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[05-Dec-2025 17:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[05-Dec-2025 18:00:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[05-Dec-2025 18:00:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[05-Dec-2025 18:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[06-Dec-2025 19:04:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[06-Dec-2025 19:04:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[06-Dec-2025 19:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[07-Dec-2025 10:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[07-Dec-2025 10:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[07-Dec-2025 10:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[20-Dec-2025 01:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[20-Dec-2025 01:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[20-Dec-2025 01:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[21-Dec-2025 01:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[21-Dec-2025 01:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[21-Dec-2025 01:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[27-Dec-2025 10:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[27-Dec-2025 10:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[27-Dec-2025 10:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[02-Jan-2026 10:02:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[02-Jan-2026 10:02:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[02-Jan-2026 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[02-Jan-2026 22:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[02-Jan-2026 22:12:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[02-Jan-2026 22:12:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[03-Jan-2026 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[03-Jan-2026 18:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[03-Jan-2026 18:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[06-Jan-2026 23:30:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[06-Jan-2026 23:30:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[06-Jan-2026 23:30:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[08-Jan-2026 23:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[08-Jan-2026 23:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[08-Jan-2026 23:35:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[14-Jan-2026 11:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[14-Jan-2026 11:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[14-Jan-2026 11:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[16-Jan-2026 04:37:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[16-Jan-2026 04:37:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[16-Jan-2026 04:37:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_CLI_Command' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22

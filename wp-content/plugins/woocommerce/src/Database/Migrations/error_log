@@ -1,0 +1,320 @@
+[25-Aug-2025 08:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[25-Aug-2025 08:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[29-Aug-2025 08:31:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[29-Aug-2025 08:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[08-Sep-2025 16:22:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[08-Sep-2025 16:22:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[09-Sep-2025 01:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[09-Sep-2025 01:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[11-Sep-2025 22:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[11-Sep-2025 22:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[12-Sep-2025 14:47:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[12-Sep-2025 14:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[14-Sep-2025 05:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[14-Sep-2025 05:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[20-Sep-2025 06:41:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[20-Sep-2025 06:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[25-Sep-2025 14:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[25-Sep-2025 14:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[28-Sep-2025 10:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[28-Sep-2025 10:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[04-Oct-2025 14:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[04-Oct-2025 14:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[06-Oct-2025 17:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[06-Oct-2025 17:10:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[07-Oct-2025 20:18:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[07-Oct-2025 20:18:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[07-Oct-2025 23:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[07-Oct-2025 23:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[09-Oct-2025 18:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[09-Oct-2025 18:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[13-Oct-2025 17:27:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[13-Oct-2025 17:27:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[18-Oct-2025 14:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[18-Oct-2025 14:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[25-Oct-2025 23:33:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[25-Oct-2025 23:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[04-Nov-2025 07:42:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[04-Nov-2025 07:42:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[04-Nov-2025 10:09:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[04-Nov-2025 10:09:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[06-Nov-2025 05:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[06-Nov-2025 05:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[08-Nov-2025 16:44:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[08-Nov-2025 16:44:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[20-Nov-2025 22:47:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[20-Nov-2025 22:47:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[01-Dec-2025 21:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[01-Dec-2025 21:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[03-Dec-2025 21:33:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[03-Dec-2025 21:33:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[05-Dec-2025 11:12:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[05-Dec-2025 11:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[05-Dec-2025 17:28:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[05-Dec-2025 17:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[05-Dec-2025 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[05-Dec-2025 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[06-Dec-2025 19:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[06-Dec-2025 19:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[07-Dec-2025 11:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[07-Dec-2025 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[20-Dec-2025 01:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[20-Dec-2025 01:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[21-Dec-2025 02:06:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[21-Dec-2025 02:06:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[27-Dec-2025 10:19:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[27-Dec-2025 10:19:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[02-Jan-2026 10:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[02-Jan-2026 10:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[02-Jan-2026 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[02-Jan-2026 22:39:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[03-Jan-2026 19:22:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[03-Jan-2026 19:22:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[06-Jan-2026 23:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[06-Jan-2026 23:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[08-Jan-2026 23:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[08-Jan-2026 23:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[14-Jan-2026 11:58:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[14-Jan-2026 11:58:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14
+[16-Jan-2026 04:44:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToCustomTableMigrator.php on line 14
+[16-Jan-2026 04:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Database\Migrations\TableMigrator' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php on line 14

@@ -1,0 +1,160 @@
+[25-Aug-2025 08:32:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[29-Aug-2025 08:39:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[08-Sep-2025 16:32:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[09-Sep-2025 01:33:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[11-Sep-2025 23:00:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[12-Sep-2025 14:56:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[14-Sep-2025 06:03:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[20-Sep-2025 06:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[25-Sep-2025 14:57:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[28-Sep-2025 10:25:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[04-Oct-2025 14:17:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[06-Oct-2025 17:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[07-Oct-2025 20:24:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[07-Oct-2025 23:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[09-Oct-2025 18:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[13-Oct-2025 17:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[18-Oct-2025 14:22:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[25-Oct-2025 23:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[04-Nov-2025 07:45:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[04-Nov-2025 10:13:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[06-Nov-2025 05:23:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[08-Nov-2025 16:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[20-Nov-2025 22:55:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[01-Dec-2025 21:07:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[03-Dec-2025 21:37:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[05-Dec-2025 11:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[05-Dec-2025 17:40:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[05-Dec-2025 18:10:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[06-Dec-2025 19:25:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[07-Dec-2025 11:22:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[20-Dec-2025 01:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[21-Dec-2025 02:12:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[27-Dec-2025 10:23:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[02-Jan-2026 10:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[02-Jan-2026 22:53:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[03-Jan-2026 19:56:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[06-Jan-2026 23:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[08-Jan-2026 23:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[14-Jan-2026 12:02:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19
+[16-Jan-2026 04:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/vendor/symfony/polyfill-php80/PhpToken.php on line 19

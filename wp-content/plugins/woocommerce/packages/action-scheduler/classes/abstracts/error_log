@@ -1,0 +1,760 @@
+[25-Aug-2025 08:15:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Aug-2025 08:15:50 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Aug-2025 08:15:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Aug-2025 08:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[25-Aug-2025 08:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[25-Aug-2025 08:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[25-Aug-2025 08:15:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[29-Aug-2025 08:18:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[29-Aug-2025 08:18:13 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[29-Aug-2025 08:18:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[29-Aug-2025 08:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[29-Aug-2025 08:18:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[29-Aug-2025 08:18:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[29-Aug-2025 08:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[08-Sep-2025 16:05:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Sep-2025 16:05:34 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Sep-2025 16:05:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Sep-2025 16:05:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[08-Sep-2025 16:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[08-Sep-2025 16:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[08-Sep-2025 16:05:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[09-Sep-2025 01:08:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Sep-2025 01:08:41 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Sep-2025 01:08:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Sep-2025 01:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[09-Sep-2025 01:08:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[09-Sep-2025 01:08:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[09-Sep-2025 01:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[11-Sep-2025 22:37:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[11-Sep-2025 22:37:02 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[11-Sep-2025 22:37:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[11-Sep-2025 22:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[11-Sep-2025 22:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[11-Sep-2025 22:37:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[11-Sep-2025 22:37:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[12-Sep-2025 14:28:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[12-Sep-2025 14:28:40 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[12-Sep-2025 14:28:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[12-Sep-2025 14:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[12-Sep-2025 14:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[12-Sep-2025 14:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[12-Sep-2025 14:28:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[14-Sep-2025 05:32:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Sep-2025 05:32:25 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Sep-2025 05:32:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Sep-2025 05:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[14-Sep-2025 05:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[14-Sep-2025 05:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[14-Sep-2025 05:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[20-Sep-2025 06:16:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Sep-2025 06:16:53 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Sep-2025 06:16:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Sep-2025 06:17:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[20-Sep-2025 06:17:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[20-Sep-2025 06:17:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[20-Sep-2025 06:17:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[25-Sep-2025 14:33:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Sep-2025 14:33:50 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Sep-2025 14:33:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Sep-2025 14:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[25-Sep-2025 14:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[25-Sep-2025 14:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[25-Sep-2025 14:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[28-Sep-2025 10:09:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[28-Sep-2025 10:09:46 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[28-Sep-2025 10:09:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[28-Sep-2025 10:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[28-Sep-2025 10:09:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[28-Sep-2025 10:09:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[28-Sep-2025 10:09:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[04-Oct-2025 14:08:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Oct-2025 14:08:51 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Oct-2025 14:08:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Oct-2025 14:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[04-Oct-2025 14:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[04-Oct-2025 14:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[04-Oct-2025 14:08:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[06-Oct-2025 16:55:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Oct-2025 16:55:44 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Oct-2025 16:55:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Oct-2025 16:55:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[06-Oct-2025 16:55:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[06-Oct-2025 16:55:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[06-Oct-2025 16:55:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[07-Oct-2025 20:07:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 20:07:07 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 20:07:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[07-Oct-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[07-Oct-2025 20:07:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[07-Oct-2025 20:07:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[07-Oct-2025 22:50:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 22:50:05 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 22:50:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Oct-2025 22:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[07-Oct-2025 22:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[07-Oct-2025 22:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[07-Oct-2025 22:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[09-Oct-2025 18:26:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Oct-2025 18:26:45 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Oct-2025 18:26:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[09-Oct-2025 18:26:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[09-Oct-2025 18:26:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[09-Oct-2025 18:26:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[09-Oct-2025 18:26:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[13-Oct-2025 17:12:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[13-Oct-2025 17:12:31 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[13-Oct-2025 17:12:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[13-Oct-2025 17:12:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[13-Oct-2025 17:12:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[13-Oct-2025 17:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[13-Oct-2025 17:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[18-Oct-2025 14:12:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[18-Oct-2025 14:12:49 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[18-Oct-2025 14:12:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[18-Oct-2025 14:12:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[18-Oct-2025 14:12:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[18-Oct-2025 14:12:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[18-Oct-2025 14:12:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[25-Oct-2025 23:16:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Oct-2025 23:16:38 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Oct-2025 23:16:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[25-Oct-2025 23:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[25-Oct-2025 23:16:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[25-Oct-2025 23:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[25-Oct-2025 23:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[04-Nov-2025 07:34:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 07:34:52 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 07:34:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 07:34:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[04-Nov-2025 07:34:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[04-Nov-2025 07:34:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[04-Nov-2025 07:34:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[04-Nov-2025 10:03:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 10:03:11 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 10:03:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[04-Nov-2025 10:03:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[04-Nov-2025 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[04-Nov-2025 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[04-Nov-2025 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[06-Nov-2025 05:14:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Nov-2025 05:14:34 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Nov-2025 05:14:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Nov-2025 05:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[06-Nov-2025 05:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[06-Nov-2025 05:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[06-Nov-2025 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[08-Nov-2025 16:24:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Nov-2025 16:24:08 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Nov-2025 16:24:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Nov-2025 16:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[08-Nov-2025 16:24:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[08-Nov-2025 16:24:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[08-Nov-2025 16:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[20-Nov-2025 22:35:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Nov-2025 22:35:45 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Nov-2025 22:35:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Nov-2025 22:35:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[20-Nov-2025 22:35:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[20-Nov-2025 22:35:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[20-Nov-2025 22:35:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[01-Dec-2025 20:52:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[01-Dec-2025 20:52:33 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[01-Dec-2025 20:52:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[01-Dec-2025 20:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[01-Dec-2025 20:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[01-Dec-2025 20:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[01-Dec-2025 20:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[03-Dec-2025 21:26:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Dec-2025 21:26:16 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Dec-2025 21:26:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Dec-2025 21:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[03-Dec-2025 21:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[03-Dec-2025 21:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[03-Dec-2025 21:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[05-Dec-2025 11:03:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 11:03:20 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 11:03:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 11:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[05-Dec-2025 11:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[05-Dec-2025 11:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[05-Dec-2025 11:03:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[05-Dec-2025 17:05:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 17:05:33 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 17:05:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 17:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[05-Dec-2025 17:05:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[05-Dec-2025 17:05:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[05-Dec-2025 17:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[05-Dec-2025 18:00:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 18:00:40 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 18:00:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[05-Dec-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[05-Dec-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[05-Dec-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[05-Dec-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[06-Dec-2025 19:04:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Dec-2025 19:04:40 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Dec-2025 19:04:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Dec-2025 19:04:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[06-Dec-2025 19:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[06-Dec-2025 19:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[06-Dec-2025 19:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[07-Dec-2025 10:18:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Dec-2025 10:18:13 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Dec-2025 10:18:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[07-Dec-2025 10:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[07-Dec-2025 10:18:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[07-Dec-2025 10:18:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[07-Dec-2025 10:18:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[20-Dec-2025 01:04:26 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Dec-2025 01:04:26 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Dec-2025 01:04:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[20-Dec-2025 01:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[20-Dec-2025 01:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[20-Dec-2025 01:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[20-Dec-2025 01:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[21-Dec-2025 01:51:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[21-Dec-2025 01:51:15 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[21-Dec-2025 01:51:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[21-Dec-2025 01:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[21-Dec-2025 01:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[21-Dec-2025 01:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[21-Dec-2025 01:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[27-Dec-2025 10:10:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[27-Dec-2025 10:10:27 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[27-Dec-2025 10:10:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[27-Dec-2025 10:10:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[27-Dec-2025 10:10:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[27-Dec-2025 10:10:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[27-Dec-2025 10:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[02-Jan-2026 10:03:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 10:03:02 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 10:03:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 10:03:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[02-Jan-2026 10:03:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[02-Jan-2026 10:03:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[02-Jan-2026 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[02-Jan-2026 22:12:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 22:12:54 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 22:12:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[02-Jan-2026 22:12:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[02-Jan-2026 22:12:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[02-Jan-2026 22:12:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[02-Jan-2026 22:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[03-Jan-2026 18:32:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Jan-2026 18:32:46 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Jan-2026 18:32:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[03-Jan-2026 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[03-Jan-2026 18:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[03-Jan-2026 18:32:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[03-Jan-2026 18:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[06-Jan-2026 23:30:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Jan-2026 23:30:39 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Jan-2026 23:30:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[06-Jan-2026 23:30:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[06-Jan-2026 23:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[06-Jan-2026 23:30:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[06-Jan-2026 23:30:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[08-Jan-2026 23:35:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Jan-2026 23:35:34 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Jan-2026 23:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[08-Jan-2026 23:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[08-Jan-2026 23:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[08-Jan-2026 23:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[08-Jan-2026 23:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[14-Jan-2026 11:51:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Jan-2026 11:51:47 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Jan-2026 11:51:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[14-Jan-2026 11:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[14-Jan-2026 11:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[14-Jan-2026 11:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[14-Jan-2026 11:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[16-Jan-2026 04:37:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[16-Jan-2026 04:37:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[16-Jan-2026 04:37:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[16-Jan-2026 04:37:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[16-Jan-2026 04:37:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[16-Jan-2026 04:37:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Schedule_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[16-Jan-2026 04:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Store_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7

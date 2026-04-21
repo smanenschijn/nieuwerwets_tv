@@ -1,0 +1,268 @@
+[21-Oct-2024 19:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[21-Oct-2024 19:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[21-Oct-2024 19:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[21-Oct-2024 19:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[21-Oct-2024 19:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[21-Oct-2024 19:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[16-Dec-2024 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[16-Dec-2024 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[16-Dec-2024 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[16-Dec-2024 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[16-Dec-2024 03:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[16-Dec-2024 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[06-May-2025 23:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[06-May-2025 23:59:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[06-May-2025 23:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[06-May-2025 23:59:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[06-May-2025 23:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[06-May-2025 23:59:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[10-Sep-2025 06:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[25-Nov-2025 13:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[25-Nov-2025 13:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[25-Nov-2025 13:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[25-Nov-2025 13:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[25-Nov-2025 13:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[25-Nov-2025 13:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[25-Nov-2025 13:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[25-Nov-2025 13:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[25-Nov-2025 13:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[25-Nov-2025 13:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[25-Nov-2025 13:07:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[25-Nov-2025 13:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[25-Nov-2025 13:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[25-Nov-2025 13:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[25-Nov-2025 13:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[25-Nov-2025 13:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[25-Nov-2025 13:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[25-Nov-2025 13:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[25-Nov-2025 13:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[25-Nov-2025 13:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[25-Nov-2025 13:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[25-Nov-2025 13:08:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[25-Nov-2025 13:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[25-Nov-2025 13:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[11-Dec-2025 17:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[11-Dec-2025 17:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[11-Dec-2025 17:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[11-Dec-2025 17:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[11-Dec-2025 17:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[11-Dec-2025 17:44:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[11-Dec-2025 17:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[11-Dec-2025 17:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[11-Dec-2025 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[11-Dec-2025 17:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[11-Dec-2025 17:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[11-Dec-2025 17:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 15
+[11-Dec-2025 17:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[11-Dec-2025 17:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[11-Dec-2025 17:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[11-Dec-2025 17:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 28
+[11-Dec-2025 17:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[11-Dec-2025 17:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[11-Dec-2025 17:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[11-Dec-2025 17:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[11-Dec-2025 17:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[11-Dec-2025 17:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[11-Dec-2025 17:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19
+[11-Dec-2025 17:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 19

@@ -1,0 +1,1120 @@
+[25-Aug-2025 08:16:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[25-Aug-2025 08:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[25-Aug-2025 08:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[25-Aug-2025 08:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[25-Aug-2025 08:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[25-Aug-2025 08:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[25-Aug-2025 08:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[29-Aug-2025 08:18:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[29-Aug-2025 08:18:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[29-Aug-2025 08:18:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[29-Aug-2025 08:19:01 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[29-Aug-2025 08:19:01 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[29-Aug-2025 08:19:03 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[29-Aug-2025 08:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[08-Sep-2025 16:06:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[08-Sep-2025 16:06:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[08-Sep-2025 16:06:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[08-Sep-2025 16:06:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[08-Sep-2025 16:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[08-Sep-2025 16:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[08-Sep-2025 16:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[09-Sep-2025 01:09:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[09-Sep-2025 01:09:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[09-Sep-2025 01:09:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[09-Sep-2025 01:09:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[09-Sep-2025 01:09:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[09-Sep-2025 01:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[09-Sep-2025 01:09:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[11-Sep-2025 22:37:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[11-Sep-2025 22:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[11-Sep-2025 22:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[11-Sep-2025 22:38:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[11-Sep-2025 22:38:13 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[11-Sep-2025 22:38:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[11-Sep-2025 22:38:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[12-Sep-2025 14:29:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[12-Sep-2025 14:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[12-Sep-2025 14:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[12-Sep-2025 14:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[12-Sep-2025 14:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[12-Sep-2025 14:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[12-Sep-2025 14:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[14-Sep-2025 05:33:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[14-Sep-2025 05:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[14-Sep-2025 05:33:13 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[14-Sep-2025 05:33:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[14-Sep-2025 05:33:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[14-Sep-2025 05:33:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[14-Sep-2025 05:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[20-Sep-2025 06:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[20-Sep-2025 06:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[20-Sep-2025 06:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[20-Sep-2025 06:18:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[20-Sep-2025 06:18:55 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[20-Sep-2025 06:18:56 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[20-Sep-2025 06:18:56 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[25-Sep-2025 14:34:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[25-Sep-2025 14:34:43 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[25-Sep-2025 14:34:44 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[25-Sep-2025 14:34:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[25-Sep-2025 14:34:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[25-Sep-2025 14:34:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[25-Sep-2025 14:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[28-Sep-2025 10:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[28-Sep-2025 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[28-Sep-2025 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[28-Sep-2025 10:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[28-Sep-2025 10:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[28-Sep-2025 10:10:22 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[28-Sep-2025 10:10:22 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[04-Oct-2025 14:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[06-Oct-2025 16:56:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[06-Oct-2025 16:56:45 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[06-Oct-2025 16:56:46 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[06-Oct-2025 16:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[06-Oct-2025 16:56:48 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[06-Oct-2025 16:56:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[06-Oct-2025 16:56:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[07-Oct-2025 20:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[07-Oct-2025 20:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[07-Oct-2025 20:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[07-Oct-2025 20:07:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[07-Oct-2025 20:07:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[07-Oct-2025 20:07:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[07-Oct-2025 20:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[07-Oct-2025 22:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[07-Oct-2025 22:50:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[07-Oct-2025 22:50:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[07-Oct-2025 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[07-Oct-2025 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[07-Oct-2025 22:50:40 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[07-Oct-2025 22:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[09-Oct-2025 18:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[09-Oct-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[13-Oct-2025 17:13:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[13-Oct-2025 17:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[13-Oct-2025 17:13:57 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[13-Oct-2025 17:14:01 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[13-Oct-2025 17:14:05 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[13-Oct-2025 17:14:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[13-Oct-2025 17:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[18-Oct-2025 14:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[18-Oct-2025 14:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[18-Oct-2025 14:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[18-Oct-2025 14:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[18-Oct-2025 14:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[18-Oct-2025 14:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[18-Oct-2025 14:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[25-Oct-2025 23:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[25-Oct-2025 23:17:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[25-Oct-2025 23:17:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[25-Oct-2025 23:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[25-Oct-2025 23:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[25-Oct-2025 23:17:57 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[25-Oct-2025 23:17:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[04-Nov-2025 07:35:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[04-Nov-2025 07:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[04-Nov-2025 07:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[04-Nov-2025 07:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[04-Nov-2025 07:35:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[04-Nov-2025 07:35:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[04-Nov-2025 07:35:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[04-Nov-2025 10:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[04-Nov-2025 10:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[04-Nov-2025 10:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[04-Nov-2025 10:03:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[04-Nov-2025 10:03:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[04-Nov-2025 10:03:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[04-Nov-2025 10:03:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[06-Nov-2025 05:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[06-Nov-2025 05:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[06-Nov-2025 05:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[06-Nov-2025 05:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[06-Nov-2025 05:14:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[06-Nov-2025 05:14:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[06-Nov-2025 05:14:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[08-Nov-2025 16:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[08-Nov-2025 16:25:22 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[08-Nov-2025 16:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[08-Nov-2025 16:25:25 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[08-Nov-2025 16:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[08-Nov-2025 16:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[08-Nov-2025 16:25:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[20-Nov-2025 22:36:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[20-Nov-2025 22:36:26 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[20-Nov-2025 22:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[20-Nov-2025 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[20-Nov-2025 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[20-Nov-2025 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[20-Nov-2025 22:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[01-Dec-2025 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[03-Dec-2025 21:26:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[03-Dec-2025 21:26:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[03-Dec-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[03-Dec-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[03-Dec-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[03-Dec-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[03-Dec-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[05-Dec-2025 11:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[05-Dec-2025 11:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[05-Dec-2025 11:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[05-Dec-2025 11:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[05-Dec-2025 11:03:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[05-Dec-2025 11:03:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[05-Dec-2025 11:03:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[05-Dec-2025 17:06:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[05-Dec-2025 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[05-Dec-2025 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[05-Dec-2025 17:07:06 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[05-Dec-2025 17:07:09 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[05-Dec-2025 17:07:13 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[05-Dec-2025 17:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[05-Dec-2025 18:01:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[06-Dec-2025 19:05:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[06-Dec-2025 19:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[06-Dec-2025 19:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[06-Dec-2025 19:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[06-Dec-2025 19:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[06-Dec-2025 19:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[06-Dec-2025 19:05:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[07-Dec-2025 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[07-Dec-2025 10:21:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[07-Dec-2025 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[07-Dec-2025 10:21:18 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[07-Dec-2025 10:21:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[07-Dec-2025 10:21:29 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[07-Dec-2025 10:21:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[20-Dec-2025 01:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[20-Dec-2025 01:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[21-Dec-2025 01:51:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[27-Dec-2025 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[27-Dec-2025 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[27-Dec-2025 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[27-Dec-2025 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[27-Dec-2025 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[27-Dec-2025 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[27-Dec-2025 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[02-Jan-2026 10:03:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[02-Jan-2026 10:03:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[02-Jan-2026 10:04:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[02-Jan-2026 10:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[02-Jan-2026 10:04:02 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[02-Jan-2026 10:04:04 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[02-Jan-2026 10:04:05 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[02-Jan-2026 22:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[02-Jan-2026 22:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[02-Jan-2026 22:14:16 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[02-Jan-2026 22:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[02-Jan-2026 22:14:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[02-Jan-2026 22:14:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[02-Jan-2026 22:14:21 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[03-Jan-2026 18:34:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[03-Jan-2026 18:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[03-Jan-2026 18:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[03-Jan-2026 18:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[03-Jan-2026 18:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[03-Jan-2026 18:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[03-Jan-2026 18:34:44 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[06-Jan-2026 23:31:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[06-Jan-2026 23:31:14 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[06-Jan-2026 23:31:15 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[06-Jan-2026 23:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[06-Jan-2026 23:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[06-Jan-2026 23:31:18 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[06-Jan-2026 23:31:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[08-Jan-2026 23:36:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[08-Jan-2026 23:36:43 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[08-Jan-2026 23:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[08-Jan-2026 23:36:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[08-Jan-2026 23:36:49 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[08-Jan-2026 23:36:52 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[08-Jan-2026 23:36:54 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[14-Jan-2026 11:52:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[14-Jan-2026 11:52:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[14-Jan-2026 11:52:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[14-Jan-2026 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[14-Jan-2026 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[14-Jan-2026 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[14-Jan-2026 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[16-Jan-2026 04:37:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'CronExpression_FieldInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[16-Jan-2026 04:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[16-Jan-2026 04:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[16-Jan-2026 04:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[16-Jan-2026 04:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[16-Jan-2026 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[16-Jan-2026 04:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CronExpression_AbstractField' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8

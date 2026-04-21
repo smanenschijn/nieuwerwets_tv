@@ -1,0 +1,160 @@
+[25-Aug-2025 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[29-Aug-2025 08:18:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[08-Sep-2025 16:06:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[09-Sep-2025 01:09:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[11-Sep-2025 22:37:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[12-Sep-2025 14:29:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[14-Sep-2025 05:33:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[20-Sep-2025 06:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[25-Sep-2025 14:34:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[28-Sep-2025 10:10:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[04-Oct-2025 14:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[06-Oct-2025 16:56:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[07-Oct-2025 20:07:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[07-Oct-2025 22:50:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[09-Oct-2025 18:27:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[13-Oct-2025 17:13:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[18-Oct-2025 14:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[25-Oct-2025 23:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[04-Nov-2025 07:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[04-Nov-2025 10:03:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[06-Nov-2025 05:14:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[08-Nov-2025 16:25:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[20-Nov-2025 22:36:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[01-Dec-2025 20:52:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[03-Dec-2025 21:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[05-Dec-2025 11:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[05-Dec-2025 17:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[05-Dec-2025 18:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[06-Dec-2025 19:05:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[07-Dec-2025 10:20:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[20-Dec-2025 01:04:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[21-Dec-2025 01:51:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[27-Dec-2025 10:10:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[02-Jan-2026 10:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[02-Jan-2026 22:13:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[03-Jan-2026 18:34:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[06-Jan-2026 23:31:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[08-Jan-2026 23:36:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[14-Jan-2026 11:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[16-Jan-2026 04:37:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6

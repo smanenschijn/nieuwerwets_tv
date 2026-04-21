@@ -1,0 +1,44 @@
+[21-Aug-2025 01:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[21-Aug-2025 21:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 10:33:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 13:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 13:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Aug-2025 14:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 03:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 06:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 07:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 09:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[23-Aug-2025 18:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25

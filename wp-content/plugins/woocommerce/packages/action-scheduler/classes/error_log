@@ -1,0 +1,960 @@
+[25-Aug-2025 08:15:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[25-Aug-2025 08:15:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[25-Aug-2025 08:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[25-Aug-2025 08:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[25-Aug-2025 08:15:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[25-Aug-2025 08:15:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[29-Aug-2025 08:17:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[29-Aug-2025 08:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[29-Aug-2025 08:18:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[29-Aug-2025 08:18:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[29-Aug-2025 08:18:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[29-Aug-2025 08:18:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[08-Sep-2025 16:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[08-Sep-2025 16:05:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[08-Sep-2025 16:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[08-Sep-2025 16:05:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[08-Sep-2025 16:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[08-Sep-2025 16:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[09-Sep-2025 01:08:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[09-Sep-2025 01:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[09-Sep-2025 01:08:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[09-Sep-2025 01:08:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[09-Sep-2025 01:08:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[09-Sep-2025 01:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[11-Sep-2025 22:36:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[11-Sep-2025 22:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[11-Sep-2025 22:36:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[11-Sep-2025 22:36:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[11-Sep-2025 22:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[11-Sep-2025 22:36:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[12-Sep-2025 14:28:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[12-Sep-2025 14:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[12-Sep-2025 14:28:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[12-Sep-2025 14:28:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[12-Sep-2025 14:28:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[12-Sep-2025 14:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[14-Sep-2025 05:32:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[14-Sep-2025 05:32:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[14-Sep-2025 05:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[14-Sep-2025 05:32:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[14-Sep-2025 05:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[14-Sep-2025 05:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[20-Sep-2025 06:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[20-Sep-2025 06:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[20-Sep-2025 06:16:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[20-Sep-2025 06:16:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[20-Sep-2025 06:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[20-Sep-2025 06:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[25-Sep-2025 14:33:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[25-Sep-2025 14:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[25-Sep-2025 14:33:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[25-Sep-2025 14:33:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[25-Sep-2025 14:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[25-Sep-2025 14:33:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[28-Sep-2025 10:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[28-Sep-2025 10:09:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[28-Sep-2025 10:09:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[28-Sep-2025 10:09:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[28-Sep-2025 10:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[28-Sep-2025 10:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[04-Oct-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[06-Oct-2025 16:55:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[06-Oct-2025 16:55:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[06-Oct-2025 16:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[06-Oct-2025 16:55:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[06-Oct-2025 16:55:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[06-Oct-2025 16:55:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[07-Oct-2025 20:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[07-Oct-2025 20:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[07-Oct-2025 20:06:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[07-Oct-2025 20:06:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[07-Oct-2025 20:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[07-Oct-2025 20:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[07-Oct-2025 22:49:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[07-Oct-2025 22:49:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[07-Oct-2025 22:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[07-Oct-2025 22:49:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[07-Oct-2025 22:49:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[07-Oct-2025 22:49:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[09-Oct-2025 18:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[09-Oct-2025 18:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[09-Oct-2025 18:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[09-Oct-2025 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[09-Oct-2025 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[09-Oct-2025 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[13-Oct-2025 17:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[13-Oct-2025 17:12:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[13-Oct-2025 17:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[13-Oct-2025 17:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[13-Oct-2025 17:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[13-Oct-2025 17:12:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[18-Oct-2025 14:12:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[18-Oct-2025 14:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[18-Oct-2025 14:12:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[18-Oct-2025 14:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[18-Oct-2025 14:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[18-Oct-2025 14:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[25-Oct-2025 23:16:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[25-Oct-2025 23:16:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[25-Oct-2025 23:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[25-Oct-2025 23:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[25-Oct-2025 23:16:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[25-Oct-2025 23:16:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[04-Nov-2025 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[04-Nov-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[06-Nov-2025 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[06-Nov-2025 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[06-Nov-2025 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[06-Nov-2025 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[06-Nov-2025 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[06-Nov-2025 05:14:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[08-Nov-2025 16:23:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[08-Nov-2025 16:23:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[08-Nov-2025 16:23:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[08-Nov-2025 16:23:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[08-Nov-2025 16:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[08-Nov-2025 16:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[20-Nov-2025 22:35:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[20-Nov-2025 22:35:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[20-Nov-2025 22:35:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[20-Nov-2025 22:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[20-Nov-2025 22:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[20-Nov-2025 22:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[01-Dec-2025 20:52:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[01-Dec-2025 20:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[01-Dec-2025 20:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[01-Dec-2025 20:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[01-Dec-2025 20:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[01-Dec-2025 20:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[03-Dec-2025 21:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[03-Dec-2025 21:26:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[03-Dec-2025 21:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[03-Dec-2025 21:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[03-Dec-2025 21:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[03-Dec-2025 21:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[05-Dec-2025 11:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[05-Dec-2025 11:03:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[05-Dec-2025 11:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[05-Dec-2025 11:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[05-Dec-2025 11:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[05-Dec-2025 11:03:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[05-Dec-2025 17:05:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[05-Dec-2025 17:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[05-Dec-2025 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[05-Dec-2025 17:05:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[05-Dec-2025 17:05:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[05-Dec-2025 17:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[05-Dec-2025 18:00:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[05-Dec-2025 18:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[05-Dec-2025 18:00:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[05-Dec-2025 18:00:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[05-Dec-2025 18:00:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[05-Dec-2025 18:00:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[06-Dec-2025 19:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[06-Dec-2025 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[06-Dec-2025 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[06-Dec-2025 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[06-Dec-2025 19:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[06-Dec-2025 19:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[07-Dec-2025 10:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[07-Dec-2025 10:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[07-Dec-2025 10:17:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[07-Dec-2025 10:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[07-Dec-2025 10:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[07-Dec-2025 10:17:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[20-Dec-2025 01:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[20-Dec-2025 01:04:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[20-Dec-2025 01:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[20-Dec-2025 01:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[20-Dec-2025 01:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[20-Dec-2025 01:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[21-Dec-2025 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[21-Dec-2025 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[21-Dec-2025 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[21-Dec-2025 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[21-Dec-2025 01:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[21-Dec-2025 01:51:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[27-Dec-2025 10:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[27-Dec-2025 10:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[27-Dec-2025 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[27-Dec-2025 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[27-Dec-2025 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[27-Dec-2025 10:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[02-Jan-2026 10:02:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[02-Jan-2026 10:02:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[02-Jan-2026 10:02:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[02-Jan-2026 10:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[02-Jan-2026 10:02:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[02-Jan-2026 10:02:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[02-Jan-2026 22:12:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[02-Jan-2026 22:12:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[02-Jan-2026 22:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[02-Jan-2026 22:12:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[02-Jan-2026 22:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[02-Jan-2026 22:12:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[03-Jan-2026 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[03-Jan-2026 18:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[03-Jan-2026 18:32:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[03-Jan-2026 18:32:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[03-Jan-2026 18:32:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[03-Jan-2026 18:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[06-Jan-2026 23:30:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[06-Jan-2026 23:30:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[06-Jan-2026 23:30:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[06-Jan-2026 23:30:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[06-Jan-2026 23:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[06-Jan-2026 23:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[08-Jan-2026 23:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[08-Jan-2026 23:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[08-Jan-2026 23:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[08-Jan-2026 23:35:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[08-Jan-2026 23:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[08-Jan-2026 23:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[14-Jan-2026 11:51:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[14-Jan-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[14-Jan-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[14-Jan-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[14-Jan-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[14-Jan-2026 11:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[16-Jan-2026 04:37:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_AdminView_Deprecated' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[16-Jan-2026 04:37:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ActionScheduler_Exception' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[16-Jan-2026 04:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_ListTable' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[16-Jan-2026 04:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_LogEntry' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[16-Jan-2026 04:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Lock' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[16-Jan-2026 04:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_QueueRunner' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6

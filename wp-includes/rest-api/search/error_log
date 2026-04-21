@@ -1,0 +1,1364 @@
+[29-Jun-2024 08:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Jun-2024 08:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Jun-2024 08:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Jun-2024 08:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Jun-2024 08:59:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[29-Jun-2024 08:59:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[29-Jun-2024 09:07:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Jun-2024 09:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Jun-2024 09:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Jun-2024 09:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Jun-2024 09:07:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[29-Jun-2024 09:07:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Jul-2024 18:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Jul-2024 18:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Jul-2024 18:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Jul-2024 18:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Jul-2024 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Jul-2024 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Jul-2024 18:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Jul-2024 18:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Jul-2024 18:34:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Jul-2024 18:34:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Jul-2024 18:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Jul-2024 18:34:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Jul-2024 13:46:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Jul-2024 13:46:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Jul-2024 13:46:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Jul-2024 13:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Jul-2024 13:46:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Jul-2024 13:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Jul-2024 13:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Jul-2024 13:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Jul-2024 13:57:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Jul-2024 13:57:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Jul-2024 13:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Jul-2024 13:57:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Aug-2024 01:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Aug-2024 01:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Aug-2024 01:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Aug-2024 01:46:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Aug-2024 01:46:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Aug-2024 01:46:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Aug-2024 02:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Aug-2024 02:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Aug-2024 02:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Aug-2024 02:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Aug-2024 02:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Aug-2024 02:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-May-2025 00:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-May-2025 00:07:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-May-2025 00:07:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2025 20:01:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2025 20:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2025 20:02:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Aug-2025 21:16:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Aug-2025 21:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Aug-2025 21:18:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[19-Aug-2025 13:06:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[19-Aug-2025 13:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Aug-2025 19:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Aug-2025 19:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Aug-2025 19:18:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Aug-2025 19:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Aug-2025 19:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Aug-2025 19:37:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Aug-2025 07:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Aug-2025 07:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Aug-2025 07:56:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Aug-2025 08:06:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Aug-2025 08:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Aug-2025 08:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[26-Aug-2025 20:01:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[26-Aug-2025 20:01:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[26-Aug-2025 20:01:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[29-Aug-2025 07:52:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Aug-2025 07:52:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Aug-2025 07:52:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[29-Aug-2025 08:06:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[29-Aug-2025 08:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Aug-2025 08:06:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Sep-2025 15:35:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Sep-2025 15:35:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Sep-2025 15:35:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Sep-2025 15:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Sep-2025 15:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Sep-2025 15:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2025 00:44:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2025 00:44:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2025 00:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Sep-2025 00:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Sep-2025 00:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Sep-2025 00:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[10-Sep-2025 06:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[10-Sep-2025 06:36:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[10-Sep-2025 06:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Sep-2025 22:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Sep-2025 22:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Sep-2025 22:16:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Sep-2025 22:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Sep-2025 22:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Sep-2025 22:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[12-Sep-2025 13:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[12-Sep-2025 13:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[12-Sep-2025 13:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[12-Sep-2025 14:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[12-Sep-2025 14:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[12-Sep-2025 14:14:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Sep-2025 05:02:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Sep-2025 05:02:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Sep-2025 05:02:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Sep-2025 05:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Sep-2025 05:17:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Sep-2025 05:17:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Sep-2025 05:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Sep-2025 05:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Sep-2025 05:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Sep-2025 05:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Sep-2025 05:55:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Sep-2025 05:55:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Sep-2025 14:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Sep-2025 14:06:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Sep-2025 14:06:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Sep-2025 14:20:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Sep-2025 14:20:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Sep-2025 14:20:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Sep-2025 20:26:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Sep-2025 20:26:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Sep-2025 20:26:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[28-Sep-2025 09:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[28-Sep-2025 09:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Sep-2025 09:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[28-Sep-2025 10:00:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[28-Sep-2025 10:00:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Sep-2025 10:00:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Oct-2025 13:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Oct-2025 13:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Oct-2025 13:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Oct-2025 14:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Oct-2025 14:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Oct-2025 14:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Oct-2025 16:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Oct-2025 16:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Oct-2025 16:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Oct-2025 16:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Oct-2025 16:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Oct-2025 16:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Oct-2025 19:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Oct-2025 19:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Oct-2025 19:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Oct-2025 19:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Oct-2025 19:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Oct-2025 19:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Oct-2025 22:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Oct-2025 22:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Oct-2025 22:31:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Oct-2025 22:40:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Oct-2025 22:40:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Oct-2025 22:40:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Oct-2025 18:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Oct-2025 18:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Oct-2025 18:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[09-Oct-2025 18:19:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[09-Oct-2025 18:19:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[09-Oct-2025 18:19:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[13-Oct-2025 16:36:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[13-Oct-2025 16:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[13-Oct-2025 16:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[13-Oct-2025 16:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[13-Oct-2025 16:56:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[13-Oct-2025 16:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[18-Oct-2025 13:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[18-Oct-2025 13:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[18-Oct-2025 13:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[18-Oct-2025 14:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[18-Oct-2025 14:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[18-Oct-2025 14:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Oct-2025 22:48:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Oct-2025 22:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Oct-2025 22:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Oct-2025 23:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Oct-2025 23:03:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Oct-2025 23:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Nov-2025 07:21:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Nov-2025 07:21:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Nov-2025 07:21:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Nov-2025 07:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Nov-2025 07:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Nov-2025 07:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Nov-2025 09:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Nov-2025 09:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Nov-2025 09:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[04-Nov-2025 09:56:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[04-Nov-2025 09:56:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[04-Nov-2025 09:56:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Nov-2025 05:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Nov-2025 05:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Nov-2025 05:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Nov-2025 05:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Nov-2025 05:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Nov-2025 05:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Nov-2025 15:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Nov-2025 15:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Nov-2025 15:50:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Nov-2025 16:09:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Nov-2025 16:09:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Nov-2025 16:09:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 22:17:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 22:17:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 22:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 22:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 22:26:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 22:26:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Nov-2025 12:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Nov-2025 12:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Nov-2025 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Nov-2025 12:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[25-Nov-2025 12:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Nov-2025 12:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Nov-2025 12:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Nov-2025 12:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[25-Nov-2025 12:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Nov-2025 12:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Nov-2025 12:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[25-Nov-2025 12:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Dec-2025 20:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Dec-2025 20:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Dec-2025 20:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Dec-2025 20:43:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Dec-2025 20:43:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Dec-2025 20:43:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Dec-2025 21:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Dec-2025 21:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Dec-2025 21:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Dec-2025 21:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Dec-2025 21:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Dec-2025 21:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 10:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 10:43:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 10:43:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 10:54:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 10:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 10:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 16:31:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 16:31:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 16:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 16:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 16:50:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 16:50:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 17:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 17:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 17:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[05-Dec-2025 17:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[05-Dec-2025 17:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[05-Dec-2025 17:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Dec-2025 18:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Dec-2025 18:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Dec-2025 18:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Dec-2025 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Dec-2025 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Dec-2025 18:56:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Dec-2025 09:01:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Dec-2025 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Dec-2025 09:01:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[07-Dec-2025 09:42:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[07-Dec-2025 09:42:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[07-Dec-2025 09:42:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Dec-2025 17:05:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Dec-2025 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Dec-2025 17:05:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Dec-2025 17:05:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[11-Dec-2025 17:05:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Dec-2025 17:05:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Dec-2025 17:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Dec-2025 17:05:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[11-Dec-2025 17:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Dec-2025 17:05:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Dec-2025 17:05:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[11-Dec-2025 17:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Dec-2025 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Dec-2025 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Dec-2025 00:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Dec-2025 00:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Dec-2025 00:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Dec-2025 00:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Dec-2025 01:20:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Dec-2025 01:20:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Dec-2025 01:20:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[21-Dec-2025 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[21-Dec-2025 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Dec-2025 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Dec-2025 09:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Dec-2025 09:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2025 09:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[27-Dec-2025 10:02:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[27-Dec-2025 10:02:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2025 10:02:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Jan-2026 09:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Jan-2026 09:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Jan-2026 09:23:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Jan-2026 09:42:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Jan-2026 09:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Jan-2026 09:42:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Jan-2026 21:33:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Jan-2026 21:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Jan-2026 21:33:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[02-Jan-2026 21:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Jan-2026 21:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Jan-2026 21:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Jan-2026 17:00:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Jan-2026 17:00:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Jan-2026 17:00:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[03-Jan-2026 17:56:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[03-Jan-2026 17:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[03-Jan-2026 17:56:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Jan-2026 23:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Jan-2026 23:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Jan-2026 23:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[06-Jan-2026 23:22:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Jan-2026 23:22:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Jan-2026 23:22:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Jan-2026 23:09:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Jan-2026 23:09:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Jan-2026 23:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Jan-2026 23:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[08-Jan-2026 23:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Jan-2026 23:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Jan-2026 23:35:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[08-Jan-2026 23:35:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[08-Jan-2026 23:35:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Jan-2026 11:38:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Jan-2026 11:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Jan-2026 11:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Jan-2026 11:45:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Jan-2026 11:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Jan-2026 11:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Jan-2026 04:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Jan-2026 04:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Jan-2026 04:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Jan-2026 04:29:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Jan-2026 04:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Jan-2026 04:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

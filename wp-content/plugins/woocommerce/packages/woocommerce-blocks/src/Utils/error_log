@@ -1,0 +1,160 @@
+[25-Aug-2025 08:22:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[29-Aug-2025 08:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[08-Sep-2025 16:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[09-Sep-2025 01:17:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[11-Sep-2025 22:45:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[12-Sep-2025 14:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[14-Sep-2025 05:42:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[20-Sep-2025 06:30:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[25-Sep-2025 14:43:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[28-Sep-2025 10:15:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[04-Oct-2025 14:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[06-Oct-2025 17:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[07-Oct-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[07-Oct-2025 22:56:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[09-Oct-2025 18:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[13-Oct-2025 17:21:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[18-Oct-2025 14:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[25-Oct-2025 23:26:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[04-Nov-2025 07:39:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[04-Nov-2025 10:07:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[06-Nov-2025 05:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[08-Nov-2025 16:35:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[20-Nov-2025 22:42:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[01-Dec-2025 20:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[03-Dec-2025 21:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[05-Dec-2025 11:08:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[05-Dec-2025 17:18:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[05-Dec-2025 18:04:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[06-Dec-2025 19:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[07-Dec-2025 10:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[20-Dec-2025 01:12:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[21-Dec-2025 02:01:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[27-Dec-2025 10:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[02-Jan-2026 10:13:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[02-Jan-2026 22:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[03-Jan-2026 18:56:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[06-Jan-2026 23:38:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[08-Jan-2026 23:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[14-Jan-2026 11:56:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14
+[16-Jan-2026 04:41:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Query' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Utils/BlocksWpQuery.php on line 14

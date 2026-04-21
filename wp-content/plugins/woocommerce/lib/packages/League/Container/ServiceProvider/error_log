@@ -1,0 +1,800 @@
+[25-Aug-2025 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[25-Aug-2025 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[25-Aug-2025 08:15:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[25-Aug-2025 08:15:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[25-Aug-2025 08:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[29-Aug-2025 08:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[29-Aug-2025 08:17:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[29-Aug-2025 08:17:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[29-Aug-2025 08:17:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[29-Aug-2025 08:17:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[08-Sep-2025 16:04:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[08-Sep-2025 16:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[08-Sep-2025 16:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[08-Sep-2025 16:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[08-Sep-2025 16:04:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[09-Sep-2025 01:08:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[09-Sep-2025 01:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[09-Sep-2025 01:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[09-Sep-2025 01:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[09-Sep-2025 01:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[11-Sep-2025 22:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[11-Sep-2025 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[11-Sep-2025 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[11-Sep-2025 22:36:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[11-Sep-2025 22:36:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[12-Sep-2025 14:27:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[12-Sep-2025 14:27:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[12-Sep-2025 14:28:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[12-Sep-2025 14:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[12-Sep-2025 14:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[14-Sep-2025 05:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[14-Sep-2025 05:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[14-Sep-2025 05:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[14-Sep-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[14-Sep-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[20-Sep-2025 06:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[20-Sep-2025 06:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[20-Sep-2025 06:16:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[20-Sep-2025 06:16:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[20-Sep-2025 06:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[25-Sep-2025 14:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[25-Sep-2025 14:33:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[25-Sep-2025 14:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[25-Sep-2025 14:33:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[25-Sep-2025 14:33:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[28-Sep-2025 10:09:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[28-Sep-2025 10:09:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[28-Sep-2025 10:09:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[28-Sep-2025 10:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[28-Sep-2025 10:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[04-Oct-2025 14:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[04-Oct-2025 14:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[04-Oct-2025 14:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[04-Oct-2025 14:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[04-Oct-2025 14:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[06-Oct-2025 16:55:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[06-Oct-2025 16:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[06-Oct-2025 16:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[06-Oct-2025 16:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[06-Oct-2025 16:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[07-Oct-2025 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[07-Oct-2025 20:06:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[07-Oct-2025 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[07-Oct-2025 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[07-Oct-2025 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[07-Oct-2025 22:49:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[07-Oct-2025 22:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[07-Oct-2025 22:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[07-Oct-2025 22:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[07-Oct-2025 22:49:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[09-Oct-2025 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[09-Oct-2025 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[09-Oct-2025 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[09-Oct-2025 18:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[09-Oct-2025 18:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[13-Oct-2025 17:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[13-Oct-2025 17:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[13-Oct-2025 17:11:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[13-Oct-2025 17:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[13-Oct-2025 17:11:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[18-Oct-2025 14:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[18-Oct-2025 14:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[18-Oct-2025 14:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[18-Oct-2025 14:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[18-Oct-2025 14:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[25-Oct-2025 23:15:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[25-Oct-2025 23:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[25-Oct-2025 23:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[25-Oct-2025 23:15:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[25-Oct-2025 23:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[04-Nov-2025 07:34:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[04-Nov-2025 07:34:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[04-Nov-2025 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[04-Nov-2025 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[04-Nov-2025 07:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[04-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[04-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[04-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[04-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[04-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[06-Nov-2025 05:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[06-Nov-2025 05:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[06-Nov-2025 05:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[06-Nov-2025 05:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[06-Nov-2025 05:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[08-Nov-2025 16:23:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[08-Nov-2025 16:23:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[08-Nov-2025 16:23:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[08-Nov-2025 16:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[08-Nov-2025 16:23:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[20-Nov-2025 22:35:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[20-Nov-2025 22:35:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[20-Nov-2025 22:35:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[20-Nov-2025 22:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[20-Nov-2025 22:35:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[01-Dec-2025 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[01-Dec-2025 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[01-Dec-2025 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[01-Dec-2025 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[01-Dec-2025 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[03-Dec-2025 21:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[03-Dec-2025 21:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[03-Dec-2025 21:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[03-Dec-2025 21:26:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[03-Dec-2025 21:26:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[05-Dec-2025 11:02:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[05-Dec-2025 11:02:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[05-Dec-2025 11:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[05-Dec-2025 11:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[05-Dec-2025 11:02:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[05-Dec-2025 17:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[05-Dec-2025 17:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[05-Dec-2025 17:04:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[05-Dec-2025 17:04:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[05-Dec-2025 17:04:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[05-Dec-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[05-Dec-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[05-Dec-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[05-Dec-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[05-Dec-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[06-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[06-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[06-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[06-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[06-Dec-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[07-Dec-2025 10:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[07-Dec-2025 10:16:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[07-Dec-2025 10:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[07-Dec-2025 10:16:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[07-Dec-2025 10:16:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[20-Dec-2025 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[20-Dec-2025 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[20-Dec-2025 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[20-Dec-2025 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[20-Dec-2025 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[21-Dec-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[21-Dec-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[21-Dec-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[21-Dec-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[21-Dec-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[27-Dec-2025 10:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[27-Dec-2025 10:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[27-Dec-2025 10:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[27-Dec-2025 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[27-Dec-2025 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[02-Jan-2026 10:02:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[02-Jan-2026 10:02:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[02-Jan-2026 10:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[02-Jan-2026 10:02:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[02-Jan-2026 10:02:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[02-Jan-2026 22:11:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[02-Jan-2026 22:11:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[02-Jan-2026 22:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[02-Jan-2026 22:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[02-Jan-2026 22:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[03-Jan-2026 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[03-Jan-2026 18:31:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[03-Jan-2026 18:31:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[03-Jan-2026 18:31:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[03-Jan-2026 18:31:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[06-Jan-2026 23:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[06-Jan-2026 23:30:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[06-Jan-2026 23:30:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[06-Jan-2026 23:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[06-Jan-2026 23:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[08-Jan-2026 23:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[08-Jan-2026 23:34:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[08-Jan-2026 23:34:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[08-Jan-2026 23:34:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[08-Jan-2026 23:35:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[14-Jan-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[14-Jan-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[14-Jan-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[14-Jan-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[14-Jan-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7
+[16-Jan-2026 04:36:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/AbstractServiceProvider.php on line 7
+[16-Jan-2026 04:36:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/BootableServiceProviderInterface.php on line 5
+[16-Jan-2026 04:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php on line 9
+[16-Jan-2026 04:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php on line 8
+[16-Jan-2026 04:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Automattic\WooCommerce\Vendor\League\Container\ContainerAwareInterface' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php on line 7

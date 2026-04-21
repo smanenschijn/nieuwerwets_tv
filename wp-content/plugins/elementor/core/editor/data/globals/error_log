@@ -1,0 +1,32 @@
+[25-Nov-2025 12:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[25-Nov-2025 12:59:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[25-Nov-2025 12:59:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[25-Nov-2025 12:59:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[11-Dec-2025 17:31:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[11-Dec-2025 17:31:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[11-Dec-2025 17:31:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[11-Dec-2025 17:31:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\V2\Base\Controller' not found in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8

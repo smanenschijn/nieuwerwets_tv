@@ -1,0 +1,800 @@
+[25-Aug-2025 08:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[25-Aug-2025 08:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[25-Aug-2025 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[25-Aug-2025 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[25-Aug-2025 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[29-Aug-2025 08:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[29-Aug-2025 08:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[29-Aug-2025 08:18:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[29-Aug-2025 08:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[29-Aug-2025 08:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[08-Sep-2025 16:06:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[08-Sep-2025 16:06:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[08-Sep-2025 16:06:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[08-Sep-2025 16:06:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[08-Sep-2025 16:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[09-Sep-2025 01:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[09-Sep-2025 01:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[09-Sep-2025 01:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[09-Sep-2025 01:09:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[09-Sep-2025 01:09:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[11-Sep-2025 22:37:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[11-Sep-2025 22:37:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[11-Sep-2025 22:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[11-Sep-2025 22:37:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[11-Sep-2025 22:37:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[12-Sep-2025 14:29:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[12-Sep-2025 14:29:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[12-Sep-2025 14:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[12-Sep-2025 14:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[12-Sep-2025 14:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[14-Sep-2025 05:32:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[14-Sep-2025 05:32:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[14-Sep-2025 05:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[14-Sep-2025 05:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[14-Sep-2025 05:32:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[20-Sep-2025 06:18:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[20-Sep-2025 06:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[20-Sep-2025 06:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[20-Sep-2025 06:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[20-Sep-2025 06:18:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[25-Sep-2025 14:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[25-Sep-2025 14:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[25-Sep-2025 14:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[25-Sep-2025 14:34:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[25-Sep-2025 14:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[28-Sep-2025 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[28-Sep-2025 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[28-Sep-2025 10:10:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[28-Sep-2025 10:10:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[28-Sep-2025 10:10:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[04-Oct-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[04-Oct-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[04-Oct-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[04-Oct-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[04-Oct-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[06-Oct-2025 16:56:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[06-Oct-2025 16:56:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[06-Oct-2025 16:56:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[06-Oct-2025 16:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[06-Oct-2025 16:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[07-Oct-2025 20:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[07-Oct-2025 20:07:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[07-Oct-2025 20:07:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[07-Oct-2025 20:07:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[07-Oct-2025 20:07:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[07-Oct-2025 22:50:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[07-Oct-2025 22:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[07-Oct-2025 22:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[07-Oct-2025 22:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[07-Oct-2025 22:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[09-Oct-2025 18:26:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[09-Oct-2025 18:26:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[09-Oct-2025 18:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[09-Oct-2025 18:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[09-Oct-2025 18:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[13-Oct-2025 17:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[13-Oct-2025 17:13:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[13-Oct-2025 17:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[13-Oct-2025 17:13:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[13-Oct-2025 17:13:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[18-Oct-2025 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[18-Oct-2025 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[18-Oct-2025 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[18-Oct-2025 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[18-Oct-2025 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[25-Oct-2025 23:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[25-Oct-2025 23:17:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[25-Oct-2025 23:17:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[25-Oct-2025 23:17:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[25-Oct-2025 23:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[04-Nov-2025 07:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[04-Nov-2025 07:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[04-Nov-2025 07:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[04-Nov-2025 07:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[04-Nov-2025 07:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[04-Nov-2025 10:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[04-Nov-2025 10:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[04-Nov-2025 10:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[04-Nov-2025 10:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[04-Nov-2025 10:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[06-Nov-2025 05:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[06-Nov-2025 05:14:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[06-Nov-2025 05:14:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[06-Nov-2025 05:14:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[06-Nov-2025 05:14:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[08-Nov-2025 16:24:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[08-Nov-2025 16:24:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[08-Nov-2025 16:24:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[08-Nov-2025 16:24:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[08-Nov-2025 16:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[20-Nov-2025 22:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[20-Nov-2025 22:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[20-Nov-2025 22:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[20-Nov-2025 22:36:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[20-Nov-2025 22:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[01-Dec-2025 20:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[01-Dec-2025 20:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[01-Dec-2025 20:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[01-Dec-2025 20:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[01-Dec-2025 20:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[03-Dec-2025 21:26:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[03-Dec-2025 21:26:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[03-Dec-2025 21:26:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[03-Dec-2025 21:26:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[03-Dec-2025 21:26:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[05-Dec-2025 11:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[05-Dec-2025 11:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[05-Dec-2025 11:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[05-Dec-2025 11:03:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[05-Dec-2025 11:03:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[05-Dec-2025 17:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[05-Dec-2025 17:06:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[05-Dec-2025 17:06:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[05-Dec-2025 17:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[05-Dec-2025 17:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[05-Dec-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[05-Dec-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[05-Dec-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[05-Dec-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[05-Dec-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[06-Dec-2025 19:04:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[06-Dec-2025 19:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[06-Dec-2025 19:05:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[06-Dec-2025 19:05:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[06-Dec-2025 19:05:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[07-Dec-2025 10:19:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[07-Dec-2025 10:20:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[07-Dec-2025 10:20:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[07-Dec-2025 10:20:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[07-Dec-2025 10:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[20-Dec-2025 01:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[20-Dec-2025 01:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[20-Dec-2025 01:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[20-Dec-2025 01:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[20-Dec-2025 01:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[21-Dec-2025 01:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[21-Dec-2025 01:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[21-Dec-2025 01:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[21-Dec-2025 01:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[21-Dec-2025 01:51:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[27-Dec-2025 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[27-Dec-2025 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[27-Dec-2025 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[27-Dec-2025 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[27-Dec-2025 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[02-Jan-2026 10:03:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[02-Jan-2026 10:03:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[02-Jan-2026 10:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[02-Jan-2026 10:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[02-Jan-2026 10:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[02-Jan-2026 22:13:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[02-Jan-2026 22:13:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[02-Jan-2026 22:13:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[02-Jan-2026 22:13:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[02-Jan-2026 22:13:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[03-Jan-2026 18:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[03-Jan-2026 18:33:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[03-Jan-2026 18:33:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[03-Jan-2026 18:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[03-Jan-2026 18:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[06-Jan-2026 23:30:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[06-Jan-2026 23:31:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[06-Jan-2026 23:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[06-Jan-2026 23:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[06-Jan-2026 23:31:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[08-Jan-2026 23:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[08-Jan-2026 23:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[08-Jan-2026 23:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[08-Jan-2026 23:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[08-Jan-2026 23:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[14-Jan-2026 11:51:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[14-Jan-2026 11:51:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[14-Jan-2026 11:51:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[14-Jan-2026 11:51:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[14-Jan-2026 11:51:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[16-Jan-2026 04:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[16-Jan-2026 04:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[16-Jan-2026 04:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_RecurringSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[16-Jan-2026 04:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_SimpleSchedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[16-Jan-2026 04:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ActionScheduler_Abstract_Schedule' not found in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/nieuwe1q/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
